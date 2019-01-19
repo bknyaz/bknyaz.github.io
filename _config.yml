@@ -1,6 +1,7 @@
-title: Boris Knyazev
+title: Boris Knyazev's blog
 author: Boris Knyazev
-email: bknyazev at uoguelph dot ca
+email: bknyazev [at] uoguelph [dot] ca
+description: Powered by Jekyll
 #description: > # this means to ignore newlines until "twitter_username:"
   #Write an awesome description for your new site here. You can edit this
   #line in _config.yml. It will appear in your document head meta (for
@@ -16,13 +17,13 @@ minima:
   # generate social links in footer
   social_links:
     #twitter: jekyllrb
-    github:  https://github.com/bknyaz
+    github:  bknyaz
     # rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-    linkedin: https://www.linkedin.com/in/boris-knyazev-39690948/
+    linkedin: boris-knyazev-39690948
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
