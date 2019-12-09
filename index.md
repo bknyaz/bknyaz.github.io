@@ -6,10 +6,11 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: PhD student 
+title: Homepage 
 ---
 
 ## About me
+I'm a PhD student at the University of Guelph (Ontario, Canada) supervised by [Graham Taylor](https://www.gwtaylor.ca/). Currently, I'm an intern at Mila working with [Eugene Belilovsky](http://eugenium.github.io/) and [Aaron Courville](https://mila.quebec/en/person/aaron-courville/). My research interests lie at the intersection of graph neural networks (GNNs) and computer vision. Previously, I did my internship at SRI International with [Mohamed Amer](https://mohamedramer.com/), where I worked on training GNNs on image superpixels (was presented at BMVC this year).
 
 ## Selected Papers
 
