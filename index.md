@@ -7,3 +7,20 @@
 #
 layout: home
 ---
+
+## Papers:
+
+- **Learning Temporal Attention in Dynamic Graphs with Bilinear Interactions**
+  Boris Knyazev, Carolyn Augusta, Graham Taylor.
+  in submission [preprint](https://arxiv.org/abs/1909.10367)
+
+- **Understanding attention and generalization in graph neural networks**
+B Knyazev, GW Taylor, MR Amer
+Advances in Neural Information Processing Systems (NeurIPS)	1*	2019
+
+
+- **Image Classification with Hierarchical Multigraph Networks**
+B Knyazev, X Lin, MR Amer, GW Taylor
+British Machine Vision Conference (BMVC)		2019
+- Spectral Multigraph Networks for Discovering and Fusing Relationships in MoleculesB Knyazev, X Lin, MR Amer, GW Taylor
+NeurIPS 2018 Workshop on Machine Learning for Molecules and Materials
