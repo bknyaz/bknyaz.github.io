@@ -68,4 +68,5 @@ International Joint Conference on Neural Networks (IJCNN) 2017<br/>
   <li><a href="{{ site.baseurl }}{{ e.url }}" class="button {% cycle '', 'alt'%}">Read More</a></li>
   </ul>
 </section>
+</section>
 
