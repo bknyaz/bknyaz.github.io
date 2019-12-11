@@ -6,11 +6,11 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: Homepage 
+title: Boris Knyazev 
 ---
 
 ## About me
-I'm a PhD student at the University of Guelph (Ontario, Canada) supervised by [Graham Taylor](https://www.gwtaylor.ca/). Currently, I'm an intern at Mila working with [Eugene Belilovsky](http://eugenium.github.io/) and [Aaron Courville](https://mila.quebec/en/person/aaron-courville/). My research interests lie at the intersection of graph neural networks (GNNs) and computer vision. Previously, I did my internship at SRI International with [Mohamed Amer](https://mohamedramer.com/), where I worked on training GNNs on image superpixels (was presented at BMVC this year).
+I'm a PhD student at the University of Guelph (Ontario, Canada) supervised by [Graham Taylor](https://www.gwtaylor.ca/). Currently, I'm an intern at Mila working with [Eugene Belilovsky](http://eugenium.github.io/) and [Aaron Courville](https://mila.quebec/en/person/aaron-courville/). My research interests lie at the intersection of graph neural networks (GNNs) and computer vision. Previously, I did my internship at SRI International with [Mohamed Amer](https://mohamedramer.com/), where I worked on training GNNs on image superpixels (presented at BMVC 2019).
 
 ## Selected Papers
 
@@ -43,3 +43,15 @@ FG Workshop on Large-scale Emotion Recognition and Analysis (LERA) 2018<br/>
 Boris Knyazev, Erhardt Barth, Thomas Martinetz<br/>
 International Joint Conference on Neural Networks (IJCNN) 2017<br/>
 [paper](https://arxiv.org/abs/1606.00611), [matlab code](https://github.com/bknyaz/autocnn_unsup), [python code](https://github.com/bknyaz/autocnn_unsup_py)
+
+## Blog posts
+
+- **[Tutorial on Graph Neural Networks for Computer Vision and Beyond](https://medium.com/@BorisAKnyazev/tutorial-on-graph-neural-networks-for-computer-vision-and-beyond-part-1-3d9fada3b80d)**
+
+- **[Anisotropic, Dynamic, Spectral and Multiscale Filters Defined on Graphs](https://towardsdatascience.com/tutorial-on-graph-neural-networks-for-computer-vision-and-beyond-part-2-be6d71d70f49)**
+
+- **[Spectral Graph Convolution Explained and Implemented Step By Step](https://towardsdatascience.com/spectral-graph-convolution-explained-and-implemented-step-by-step-2e495b57f801)**
+
+- **[Can we do better than Convolutional Neural Networks?](https://towardsdatascience.com/can-we-do-better-than-convolutional-neural-networks-46ed90fed807)**
+
+
