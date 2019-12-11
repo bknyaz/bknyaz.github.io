@@ -6,13 +6,15 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: Boris Knyazev 
+title: Boris Knyazev
 ---
+<figure> <img src="https://avatars2.githubusercontent.com/u/3225366?s=460&v=4" height="128"></figure>
+
 
 ## About me
 I'm a PhD student at the University of Guelph (Ontario, Canada) supervised by [Graham Taylor](https://www.gwtaylor.ca/). Currently, I'm an intern at Mila working with [Eugene Belilovsky](http://eugenium.github.io/) and [Aaron Courville](https://mila.quebec/en/person/aaron-courville/). My research interests lie at the intersection of graph neural networks (GNNs) and computer vision. Previously, I did my internship at SRI International with [Mohamed Amer](https://mohamedramer.com/), where I worked on training GNNs on image superpixels (presented at BMVC 2019).
 
-## Selected Papers
+## Publications
 
 
 - **Learning Temporal Attention in Dynamic Graphs with Bilinear Interactions**<br/>
