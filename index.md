@@ -25,7 +25,7 @@ I'm a PhD student at the University of Guelph (Ontario, Canada) supervised by [G
 - **Understanding attention and generalization in graph neural networks**<br/>
 Boris Knyazev, Graham Taylor, Mohamed Amer<br/>
 Advances in Neural Information Processing Systems (NeurIPS)	2019<br/>
-[paper](https://papers.nips.cc/paper/8673-understanding-attention-and-generalization-in-graph-neural-networks), [code](https://github.com/bknyaz/graph_attention_pool), [poster](), [slides]()
+[paper](https://papers.nips.cc/paper/8673-understanding-attention-and-generalization-in-graph-neural-networks), [code](https://github.com/bknyaz/graph_attention_pool), [poster](https://drive.google.com/open?id=1COefg8JADh7mgI1uh0vB6euadpOmjH27), [slides](https://drive.google.com/open?id=1HcmhSEnf8ll6-BxXK1PiGzcXDa6BbKnC)
 
 - **Image Classification with Hierarchical Multigraph Networks**<br/>
 Boris Knyazev, Xiao Lin, Mohamed Amer, Graham Taylor<br/>
