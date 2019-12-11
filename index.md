@@ -55,3 +55,17 @@ International Joint Conference on Neural Networks (IJCNN) 2017<br/>
 - **[Can we do better than Convolutional Neural Networks?](https://towardsdatascience.com/can-we-do-better-than-convolutional-neural-networks-46ed90fed807)**
 
 
+<section id="main" class="wrapper style1">
+  <header class="major">
+      <h2>Blog</h2>
+  </header>
+  {% for e in site.external_feed %}
+    <h2>{{ e.title }}</h2>
+    <p>{{ e.feed_content }}</p>
+  {% endfor %}
+<section class="special">
+  <ul class="actions">
+  <li><a href="{{ site.baseurl }}{{ e.url }}" class="button {% cycle '', 'alt'%}">Read More</a></li>
+  </ul>
+</section>
+

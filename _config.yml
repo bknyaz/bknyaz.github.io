@@ -47,6 +47,9 @@ minima:
 # Build settings
 theme: minima
 
+collections:
+ - external_feed
+
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
