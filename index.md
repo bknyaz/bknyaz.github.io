@@ -23,6 +23,7 @@ I'm a PhD student at the University of Guelph (Ontario, Canada) supervised by [G
 - Our poster "Graph Networks for Vision" is selected as the top-2 poster at SRI International among all interns, August 2018
 
 ## Publications
+See the full list at [Google Scholar](https://scholar.google.ca/citations?user=Dp9VFB0AAAAJ&hl).
 
 - **Learning Temporal Attention in Dynamic Graphs with Bilinear Interactions**<br/>
   Boris Knyazev\*, Carolyn Augusta\*, Graham Taylor (\*equal contribution) <br/>
@@ -52,6 +53,14 @@ Boris Knyazev, Xiao Lin, Mohamed Amer, Graham Taylor<br/>
 Boris Knyazev, Erhardt Barth, Thomas Martinetz<br/>
 International Joint Conference on Neural Networks (**IJCNN**), 2017<br/>
 [paper](https://arxiv.org/abs/1606.00611), [matlab code](https://github.com/bknyaz/autocnn_unsup), [python code](https://github.com/bknyaz/autocnn_unsup_py)
+
+## Open source contributions
+
+- <a href="https://github.com/rusty1s/pytorch_geometric">
+<img src="https://raw.githubusercontent.com/rusty1s/pytorch_geometric/master/docs/source/_static/img/pyg_logo_text.svg?sanitize=true" height="48"></a> - Geometric Deep Learning Extension Library for PyTorch
+
+
+
 
 ## Blog posts
 
