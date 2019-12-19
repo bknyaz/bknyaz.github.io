@@ -11,9 +11,9 @@ title: Boris Knyazev
 
 ## About me
 
-<figure> <img src="assets/boris_4.png" height="128"></figure>
+<figure> <img src="assets/boris_4.png" height="150"></figure>
 
-I'm a PhD student at the University of Guelph (Ontario, Canada) supervised by [Graham Taylor](https://www.gwtaylor.ca/). Currently, I'm an intern at Mila working with [Eugene Belilovsky](http://eugenium.github.io/) and [Aaron Courville](https://mila.quebec/en/person/aaron-courville/). My research interests lie at the intersection of graph neural networks (GNNs) and computer vision. Previously, I did an internship at SRI International with [Mohamed Amer](https://mohamedramer.com/), where I worked on training GNNs on image superpixels (presented at BMVC 2019). 
+I'm a PhD student at the University of Guelph (Ontario, Canada) supervised by [Graham Taylor](https://www.gwtaylor.ca/). Currently, I'm an intern at Mila working with [Eugene Belilovsky](http://eugenium.github.io/) and [Aaron Courville](https://mila.quebec/en/person/aaron-courville/). My research interests lie at the intersection of graph neural networks (GNNs) and computer vision. Previously, I did an internship at SRI International with [Mohamed Amer](https://mohamedramer.com/), where I worked on training GNNs on image superpixels (presented at BMVC 2019).
 
 ## News
 
@@ -62,4 +62,3 @@ International Joint Conference on Neural Networks (**IJCNN**), 2017<br/>
 - **[Spectral Graph Convolution Explained and Implemented Step By Step](https://towardsdatascience.com/spectral-graph-convolution-explained-and-implemented-step-by-step-2e495b57f801)**
 
 - **[Can we do better than Convolutional Neural Networks?](https://towardsdatascience.com/can-we-do-better-than-convolutional-neural-networks-46ed90fed807)**
-
