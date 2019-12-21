@@ -57,7 +57,6 @@ Boris Knyazev\*, Carolyn Augusta\*, Graham Taylor (\*equal contribution) <br/>*i
 
 - **Recursive Autoconvolution for Unsupervised Learning of Convolutional Neural Networks**<br/> Boris Knyazev, Erhardt Barth, Thomas Martinetz<br/> International Joint Conference on Neural Networks (**IJCNN**), 2017<br/>[paper](https://arxiv.org/abs/1606.00611), [matlab code](https://github.com/bknyaz/autocnn_unsup), [python code](https://github.com/bknyaz/autocnn_unsup_py)
 
-<img src="https://miro.medium.com/max/195/1*emiGsBgJu2KHWyjluhKXQw.png" height="45" style="float:left; margin:10px 5px 5px 5px">
 
 ## Blog posts
 
