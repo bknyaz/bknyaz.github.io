@@ -37,17 +37,13 @@ Boris Knyazev\*, Carolyn Augusta\*, Graham Taylor (\*equal contribution) <br/>*i
 <img src="https://raw.githubusercontent.com/bknyaz/graph_attention_pool/master/data/mnist_animation.gif" height="75" style="float:left; margin:5px 5px 5px 5px">
 <img src="https://raw.githubusercontent.com/bknyaz/graph_attention_pool/master/data/triangles_animation.gif" height="75" style="float:left; margin:5px 25px 5px 5px">
 
-- **Understanding Attention and Generalization in Graph Neural Networks**<br/>
-Boris Knyazev, Graham Taylor, Mohamed Amer<br/>
-Advances in Neural Information Processing Systems (**NeurIPS**), 2019<br/>
-[paper](https://papers.nips.cc/paper/8673-understanding-attention-and-generalization-in-graph-neural-networks), [code](https://github.com/bknyaz/graph_attention_pool), [poster](https://drive.google.com/open?id=1COefg8JADh7mgI1uh0vB6euadpOmjH27), [slides](https://drive.google.com/open?id=1HcmhSEnf8ll6-BxXK1PiGzcXDa6BbKnC)
+- **Understanding Attention and Generalization in Graph Neural Networks**<br/> Boris Knyazev, Graham Taylor, Mohamed Amer<br/> Advances in Neural Information Processing Systems (**NeurIPS**), 2019 <br/>[paper](https://papers.nips.cc/paper/8673-understanding-attention-and-generalization-in-graph-neural-networks), [code](https://github.com/bknyaz/graph_attention_pool), [poster](https://drive.google.com/open?id=1COefg8JADh7mgI1uh0vB6euadpOmjH27), [slides](https://drive.google.com/open?id=1HcmhSEnf8ll6-BxXK1PiGzcXDa6BbKnC)
+
 
 <img src="https://miro.medium.com/max/995/0*DQEo8wicTlkyZeC1" height="61" style="float:left; margin:5px 25px 5px 5px">
 
-- **Image Classification with Hierarchical Multigraph Networks**<br/>
-Boris Knyazev, Xiao Lin, Mohamed Amer, Graham Taylor<br/>
-British Machine Vision Conference (**BMVC**), 2019<br/>
-[paper](https://arxiv.org/abs/1907.09000), [code](https://github.com/bknyaz/bmvc_2019), [blog post](https://towardsdatascience.com/can-we-do-better-than-convolutional-neural-networks-46ed90fed807)
+- **Image Classification with Hierarchical Multigraph Netwrks**<br/> Boris Knyazev, Xiao Lin, Mohamed Amer, Graham Taylor<br/> British Machine Vision Conference (**BMVC**), 2019 <br/>[paper](https://arxiv.org/abs/1907.09000), [code](https://github.com/bknyaz/bmvc_2019), [blog post](https://towardsdatascience.com/can-we-do-better-than-convolutional-neural-networks-46ed90fed807)
+
 
 <img src="assets/neuripsW2018.png" height="60" style="float:left; margin:5px 25px 5px 5px">
 
@@ -55,17 +51,16 @@ British Machine Vision Conference (**BMVC**), 2019<br/>
 Boris Knyazev, Xiao Lin, Mohamed Amer, Graham Taylor<br/>**NeurIPS Workshop** on Machine Learning for Molecules and Materials, 2018<br/>
 [paper](https://arxiv.org/abs/1811.09595), [code](https://github.com/bknyaz/graph_nn)
 
+
 <img src="assets/emotiw.png" height="75" style="float:left; margin:5px 30px 5px 18px">
 
 - **Leveraging Large Face Recognition Data for Emotion Classification**<br/>Boris Knyazev, Roman Shvetsov, Natalia Efremova, Artem Kuharenko<br/>**FG Workshop** on Large-scale Emotion Recognition and Analysis (LERA), 2018<br/>
 [paper](https://arxiv.org/abs/1711.04598), [code](https://github.com/bknyaz/emotiw), [Top-2 in EmotiW 2017 challenge](https://sites.google.com/site/emotiwchallenge/)
 
+
 <img src="assets/ijcnn.png" height="55" style="float:left; margin:5px 25px 5px 5px">
 
-- **Recursive Autoconvolution for Unsupervised Learning of Convolutional Neural Networks**<br/>
-Boris Knyazev, Erhardt Barth, Thomas Martinetz<br/>
-International Joint Conference on Neural Networks (**IJCNN**), 2017<br/>
-[paper](https://arxiv.org/abs/1606.00611), [matlab code](https://github.com/bknyaz/autocnn_unsup), [python code](https://github.com/bknyaz/autocnn_unsup_py)
+- **Recursive Autoconvolution for Unsupervised Learning of Convolutional Neural Networks**<br/> Boris Knyazev, Erhardt Barth, Thomas Martinetz<br/> International Joint Conference on Neural Networks (**IJCNN**), 2017<br/>[paper](https://arxiv.org/abs/1606.00611), [matlab code](https://github.com/bknyaz/autocnn_unsup), [python code](https://github.com/bknyaz/autocnn_unsup_py)
 
 
 ## Blog posts
