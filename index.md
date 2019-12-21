@@ -12,6 +12,7 @@ title: Boris Knyazev
 ## About me
 
 <img src="assets/boris_5.png" height="150" style="float:right; margin:5px 25px 5px 5px">
+
 I'm a PhD student at the University of Guelph (Ontario, Canada) supervised by [Graham Taylor](https://www.gwtaylor.ca/). Currently, I'm an intern at Mila working with [Eugene Belilovsky](http://eugenium.github.io/) and [Aaron Courville](https://mila.quebec/en/person/aaron-courville/). My research interests lie at the intersection of graph neural networks (GNNs) and computer vision. Previously, I did an internship at SRI International with [Mohamed Amer](https://mohamedramer.com/), where I worked on training GNNs on image superpixels (presented at BMVC 2019).
 
 ## News
@@ -56,6 +57,7 @@ Boris Knyazev\*, Carolyn Augusta\*, Graham Taylor (\*equal contribution) <br/>*i
 
 - **Recursive Autoconvolution for Unsupervised Learning of Convolutional Neural Networks**<br/> Boris Knyazev, Erhardt Barth, Thomas Martinetz<br/> International Joint Conference on Neural Networks (**IJCNN**), 2017<br/>[paper](https://arxiv.org/abs/1606.00611), [matlab code](https://github.com/bknyaz/autocnn_unsup), [python code](https://github.com/bknyaz/autocnn_unsup_py)
 
+<img src="https://miro.medium.com/max/195/1*emiGsBgJu2KHWyjluhKXQw.png" height="45" style="float:left; margin:10px 5px 5px 5px">
 
 ## Blog posts
 
