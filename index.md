@@ -9,8 +9,6 @@ layout: home
 title: Boris Knyazev
 ---
 
-[TOC]
-
 ## About me
 
 <figure> <img src="assets/boris_4.png" height="150"></figure>
