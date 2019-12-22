@@ -15,18 +15,16 @@ title: Boris Knyazev
 
 I'm a PhD student at the University of Guelph (Ontario, Canada) supervised by [Graham Taylor](https://www.gwtaylor.ca/). Currently, I'm an intern at Mila working with [Eugene Belilovsky](http://eugenium.github.io/) and [Aaron Courville](https://mila.quebec/en/person/aaron-courville/). My research interests lie at the intersection of graph neural networks (GNNs) and computer vision. Previously, I did an internship at SRI International with [Mohamed Amer](https://mohamedramer.com/), where I worked on training GNNs on image superpixels (presented at BMVC 2019).
 
+bknyazev [at] uoguelph [dot] ca
+
 <a href="https://github.com/bknyaz">
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="45" style="float:top; margin:5px"></a>
-
 <a href="https://scholar.google.ca/citations?user=Dp9VFB0AAAAJ&hl">
 <img src="https://png2.cleanpng.com/sh/bee109d6f44fb048d4a2a8013d94f72e/L0KzQYm3VME0N6dvfZH0aYP2gLBuTfNwdaF6jNd7LYPmebb1gBUub5D0f95uLYPmeLFzggIubJDojNH7LXBpPcHvifxwe5D1Rdl4b3fvdX68gfQxQWU6Sas9YkK0R3A6VsE2QGY3UKMAMkO5QYmBWcc3OGo2RuJ3Zx==/kisspng-computer-science-google-scholar-doctor-of-philosop-google-5ad0945194b217.3615852815236188976091.png" height="45" style="float:top; margin:5px"></a>
-
 <a href="https://www.linkedin.com/in/boris-knyazev-39690948/">
 <img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="45" style="float:top; margin:5px"></a>
-
 <a href="https://twitter.com/BorisAKnyazev">
 <img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/twitter_circle_color-512.png" height="45" style="float:top; margin:5px"></a>
-
 <a href="https://medium.com/@BorisAKnyazev">
 <img src="https://miro.medium.com/max/195/1*emiGsBgJu2KHWyjluhKXQw.png" height="45" style="float:top; margin:5px"></a>
 
