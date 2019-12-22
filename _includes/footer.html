@@ -20,8 +20,10 @@
       </div-->
 
       <div class="footer-col one-half">
-        <p>{{- site.description | escape -}}</p>
-        <p>{{- site.date | escape -}}</p>
+        <ul>
+          {{ site.description | escape }}
+          {{ site.date | escape }}
+        </ul>
       </div>
 
       <!--div class="social-links">
