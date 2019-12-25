@@ -36,6 +36,12 @@ bknyazev [at] uoguelph [dot] ca
 - 1 paper is accepted to **BMVC 2019**
 - Our poster "Graph Networks for Vision" is selected as the top-2 poster at SRI International among all interns, August 2018
 
+## Talks
+
+- Understanding Attention and Generalization in Graph Neural Networks, [Mila - Quebec AI Institute](https://mila.quebec/), November 2019 ([slides](https://drive.google.com/open?id=1HcmhSEnf8ll6-BxXK1PiGzcXDa6BbKnC))
+- Video Recognition, [Universität zu Lübeck](https://www.inb.uni-luebeck.de/home.html), January 2016 ([slides](https://drive.google.com/file/d/1zQBsY2O9a9w7to9toiu1xNbnBxqnsyqi/view?usp=sharing))
+- Resource Efficient Features, [Universität zu Lübeck](https://www.inb.uni-luebeck.de/home.html), October 2015
+
 ## Publications
 See the full list at [Google Scholar](https://scholar.google.ca/citations?user=Dp9VFB0AAAAJ&hl).
 
@@ -69,7 +75,7 @@ Boris Knyazev\*, Carolyn Augusta\*, Graham Taylor (\*equal contribution) <br/>*i
 
 <img src="assets/ijcnn.png" height="65" style="float:left; margin:5px 25px 5px 5px">
 
-- **Recursive Autoconvolution for Unsupervised Learning of Convolutional Neural Networks**<br/> Boris Knyazev, Erhardt Barth, Thomas Martinetz<br/> International Joint Conference on Neural Networks (**IJCNN**), 2017<br/>[paper](https://arxiv.org/abs/1606.00611), [matlab code](https://github.com/bknyaz/autocnn_unsup), [python code](https://github.com/bknyaz/autocnn_unsup_py)
+- **Recursive Autoconvolution for Unsupervised Learning of Convolutional Neural Networks**<br/> Boris Knyazev, Erhardt Barth, Thomas Martinetz<br/> International Joint Conference on Neural Networks (**IJCNN**), 2017<br/>[paper](https://arxiv.org/abs/1606.00611), [matlab code](https://github.com/bknyaz/autocnn_unsup), [python code](https://github.com/bknyaz/autocnn_unsup_py), [reddit](https://www.reddit.com/r/MachineLearning/comments/bgegk0/recursive_autoconvolution_for_unsupervised/)
 
 
 ## Blog posts
