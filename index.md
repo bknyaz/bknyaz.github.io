@@ -38,9 +38,9 @@ bknyazev [at] uoguelph [dot] ca
 
 ## Talks
 
-- Understanding Attention and Generalization in Graph Neural Networks, [Mila - Quebec AI Institute](https://mila.quebec/), November 2019 ([slides](https://drive.google.com/open?id=1HcmhSEnf8ll6-BxXK1PiGzcXDa6BbKnC))
-- Video Recognition, [Universität zu Lübeck](https://www.inb.uni-luebeck.de/home.html), January 2016 ([slides](https://drive.google.com/file/d/1zQBsY2O9a9w7to9toiu1xNbnBxqnsyqi/view?usp=sharing))
-- Resource Efficient Features, [Universität zu Lübeck](https://www.inb.uni-luebeck.de/home.html), October 2015
+- Understanding Attention and Generalization in Graph Neural Networks, [Mila](https://mila.quebec/), Nov 2019 ([slides](https://drive.google.com/open?id=1HcmhSEnf8ll6-BxXK1PiGzcXDa6BbKnC))
+- Video Recognition, [Universität zu Lübeck](https://www.inb.uni-luebeck.de/home.html), Jan 2016 ([slides](https://drive.google.com/file/d/1zQBsY2O9a9w7to9toiu1xNbnBxqnsyqi/view?usp=sharing))
+- Resource Efficient Features, [Universität zu Lübeck](https://www.inb.uni-luebeck.de/home.html), Oct 2015
 
 ## Publications
 See the full list at [Google Scholar](https://scholar.google.ca/citations?user=Dp9VFB0AAAAJ&hl).
