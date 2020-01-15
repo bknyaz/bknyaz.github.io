@@ -59,7 +59,7 @@ Boris Knyazev\*, Carolyn Augusta\*, Graham Taylor (\*equal contribution) <br/>*i
 
 <img src="https://miro.medium.com/max/995/0*DQEo8wicTlkyZeC1" height="70" style="float:left; margin:5px 25px 5px 5px">
 
-- **Image Classification with Hierarchical Multigraph Netwrks**<br/> Boris Knyazev, Xiao Lin, Mohamed Amer, Graham Taylor<br/> British Machine Vision Conference (**BMVC**), 2019 <br/>[paper](https://arxiv.org/abs/1907.09000), [code](https://github.com/bknyaz/bmvc_2019), [blog post](https://towardsdatascience.com/can-we-do-better-than-convolutional-neural-networks-46ed90fed807)
+- **Image Classification with Hierarchical Multigraph Networks**<br/> Boris Knyazev, Xiao Lin, Mohamed Amer, Graham Taylor<br/> British Machine Vision Conference (**BMVC**), 2019 <br/>[paper](https://arxiv.org/abs/1907.09000), [code](https://github.com/bknyaz/bmvc_2019), [blog post](https://towardsdatascience.com/can-we-do-better-than-convolutional-neural-networks-46ed90fed807)
 
 
 <img src="assets/neuripsW2018.png" height="70" style="float:left; margin:5px 25px 5px 5px">
