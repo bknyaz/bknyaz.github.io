@@ -13,7 +13,8 @@ title: Boris Knyazev
 
 <img src="assets/boris_5.png" height="160" style="float:right; margin:5px 25px 5px 5px">
 
-I'm a PhD student at the Machine Learning Research Group, University of Guelph (Ontario, Canada). My advisor is [Graham Taylor](https://www.gwtaylor.ca/). Currently, I'm an intern at Mila working with [Eugene Belilovsky](http://eugenium.github.io/) and [Aaron Courville](https://mila.quebec/en/person/aaron-courville/). My research interests lie at the intersection of graph neural networks (GNNs) and computer vision. Previously, I did an internship at SRI International with [Mohamed Amer](https://mohamedramer.com/), where I worked on training GNNs on image superpixels (presented at BMVC 2019).
+I'm a PhD student at the Machine Learning Research Group, University of Guelph (Ontario, Canada). 
+My advisor is [Graham Taylor](https://www.gwtaylor.ca/). Recently, I interned at Mila working with [Eugene Belilovsky](http://eugenium.github.io/) and [Aaron Courville](https://mila.quebec/en/person/aaron-courville/). My research interests lie at the intersection of graph neural networks (GNNs) and computer vision. Previously, I did an internship at SRI International with [Mohamed Amer](https://mohamedramer.com/), where I worked on training GNNs on image superpixels (presented at BMVC 2019).
 Before that I worked on unsupervised learning and pretraining of neural networks, face, emotion and facial attributes recognition, and video recognition.
 
 bknyazev [at] uoguelph [dot] ca
@@ -44,6 +45,12 @@ bknyazev [at] uoguelph [dot] ca
 
 ## Publications
 See the full list at [Google Scholar](https://scholar.google.ca/citations?user=Dp9VFB0AAAAJ&hl).
+
+<img src="https://github.com/bknyaz/sgg/blob/master/figs/2320504_ours_zs_graph_ours.png?raw=true" height="73" style="float:left; margin:5px 25px 5px 5px">
+
+- **Graph Density-Aware Losses for Novel Compositions in Scene Graph Generation**<br/>
+Boris Knyazev, Harm de Vries, Cătălina Cangea, Graham W. Taylor, Aaron Courville, Eugene Belilovsky <br/>*in submission*<br/> [html](https://arxiv.org/abs/2005.08230), [pdf](https://arxiv.org/pdf/2005.08230.pdf), [code](https://github.com/bknyaz/sgg)
+
 
 <img src="assets/ldg.png" height="73" style="float:left; margin:5px 25px 5px 5px">
 
