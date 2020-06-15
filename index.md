@@ -49,7 +49,7 @@ See the full list at [Google Scholar](https://scholar.google.ca/citations?user=D
 <img src="https://github.com/bknyaz/sgg/blob/master/figs/2320504_ours_zs_graph_ours.png?raw=true" height="73" style="float:left; margin:5px 25px 5px 5px">
 
 - **Graph Density-Aware Losses for Novel Compositions in Scene Graph Generation**<br/>
-Boris Knyazev, Harm de Vries, Cătălina Cangea, Graham W. Taylor, Aaron Courville, Eugene Belilovsky <br/>*in submission*<br/> [html](https://arxiv.org/abs/2005.08230), [pdf](https://arxiv.org/pdf/2005.08230.pdf), [code](https://github.com/bknyaz/sgg)
+Boris Knyazev, Harm de Vries, Cătălina Cangea, Graham W. Taylor, Aaron Courville, Eugene Belilovsky, *in submission* [html](https://arxiv.org/abs/2005.08230), [pdf](https://arxiv.org/pdf/2005.08230.pdf), [code](https://github.com/bknyaz/sgg)
 
 
 <img src="assets/ldg.png" height="73" style="float:left; margin:5px 25px 5px 5px">
