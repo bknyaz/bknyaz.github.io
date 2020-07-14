@@ -48,7 +48,7 @@ bknyazev [at] uoguelph [dot] ca
 ## Publications
 See the full list at [Google Scholar](https://scholar.google.ca/citations?user=Dp9VFB0AAAAJ&hl).
 
-<img src="assets/gan_bert.png" height="73" style="float:left; margin:5px 25px 0px 0px">
+<img src="assets/gan_bert.png" height="68" style="float:left; margin:5px 25px 0px 0px">
 
 - **Generative Graph Perturbations for Scene Graph Prediction**<br/>
 Boris Knyazev, Harm de Vries, Cătălina Cangea, Graham W. Taylor, Aaron Courville, Eugene Belilovsky<br/> ICML Workshop on Object-Oriented Learning (OOL): Perception, Representation, and Reasoning, 2020<br/> [html](https://arxiv.org/abs/2007.05756), [pdf](https://arxiv.org/pdf/2007.05756.pdf), [video](https://oolworkshop.github.io/program/ool_21.html)
