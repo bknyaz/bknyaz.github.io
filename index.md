@@ -32,11 +32,11 @@ bknyazev [at] uoguelph [dot] ca
 
 ## News
 
-- 1 paper accepted at [ICML Workshop on Object-Oriented Learning (OOL): Perception, Representation, and Reasoning, 2020](https://oolworkshop.github.io/program/ool_21.html)
-- New [preprint is available](https://arxiv.org/abs/2005.08230)
-- 1 paper accepted at **NeurIPS 2019**
-- Our work on [Understanding Attention in Graph Neural Networks](https://rlgm.github.io/papers/54.pdf) is accepted as a contributed talk (3 out of 69) at [ICLR Workshop on Representation Learning on Graphs and Manifolds, 2019](https://rlgm.github.io/papers/)
-- 1 paper accepted at **BMVC 2019**
+- [1 paper](https://arxiv.org/abs/2005.08230) accepted at **BMVC 2020**
+- [1 paper](https://arxiv.org/abs/2007.05756) accepted at [**ICML Workshop** on Object-Oriented Learning (OOL): Perception, Representation, and Reasoning, 2020](https://oolworkshop.github.io/program/ool_21.html)
+- [1 paper](https://arxiv.org/abs/1905.02850) accepted at **NeurIPS 2019**
+- Our work on [Understanding Attention in Graph Neural Networks](https://rlgm.github.io/papers/54.pdf) is accepted as a contributed talk (3 out of 69) at [**ICLR Workshop** on Representation Learning on Graphs and Manifolds, 2019](https://rlgm.github.io/papers/)
+- [1 paper](https://arxiv.org/abs/1907.09000) accepted at **BMVC 2019**
 - Our poster "Graph Networks for Vision" is selected as the top-2 poster at SRI International among all interns, August 2018
 
 ## Talks
@@ -51,13 +51,13 @@ See the full list at [Google Scholar](https://scholar.google.ca/citations?user=D
 <img src="assets/gan_bert.png" height="69" style="float:left; margin:5px 25px 0px 0px">
 
 - **Generative Graph Perturbations for Scene Graph Prediction**<br/>
-Boris Knyazev, Harm de Vries, Cătălina Cangea, Graham W. Taylor, Aaron Courville, Eugene Belilovsky<br/> ICML Workshop on Object-Oriented Learning (OOL): Perception, Representation, and Reasoning, 2020<br/> [html](https://arxiv.org/abs/2007.05756), [pdf](https://arxiv.org/pdf/2007.05756.pdf), [video](https://oolworkshop.github.io/program/ool_21.html)
+Boris Knyazev, Harm de Vries, Cătălina Cangea, Graham W. Taylor, Aaron Courville, Eugene Belilovsky<br/> **ICML Workshop** on Object-Oriented Learning (OOL): Perception, Representation, and Reasoning, 2020<br/> [html](https://arxiv.org/abs/2007.05756), [pdf](https://arxiv.org/pdf/2007.05756.pdf), [video](https://oolworkshop.github.io/program/ool_21.html)
 
 
 <img src="https://github.com/bknyaz/sgg/blob/master/figs/2320504_ours_zs_graph_ours.png?raw=true" height="73" style="float:left; margin:5px 25px 5px 30px">
 
 - **Graph Density-Aware Losses for Novel Compositions in Scene Graph Generation**<br/>
-Boris Knyazev, Harm de Vries, Cătălina Cangea, Graham W. Taylor, Aaron Courville, Eugene Belilovsky<br/> *in submission* [html](https://arxiv.org/abs/2005.08230), [pdf](https://arxiv.org/pdf/2005.08230.pdf), [code](https://github.com/bknyaz/sgg)
+Boris Knyazev, Harm de Vries, Cătălina Cangea, Graham W. Taylor, Aaron Courville, Eugene Belilovsky<br/> British Machine Vision Conference (**BMVC**), 2020 [html](https://arxiv.org/abs/2005.08230), [pdf](https://arxiv.org/pdf/2005.08230.pdf), [code](https://github.com/bknyaz/sgg)
 
 
 <img src="assets/ldg.png" height="73" style="float:left; margin:5px 25px 5px 5px">
