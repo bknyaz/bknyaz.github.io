@@ -34,6 +34,7 @@ bknyazev [at] uoguelph [dot] ca
 
 - [1 paper](https://arxiv.org/abs/2005.08230) accepted at **BMVC 2020**
 - [1 paper](https://arxiv.org/abs/2007.05756) accepted at [**ICML Workshop** on Object-Oriented Learning (OOL): Perception, Representation, and Reasoning, 2020](https://oolworkshop.github.io/program/ool_21.html)
+- [1 new preprint on temporal graphs](https://arxiv.org/abs/1909.10367) is available
 - [1 paper](https://arxiv.org/abs/1905.02850) accepted at **NeurIPS 2019**
 - Our work on [Understanding Attention in Graph Neural Networks](https://rlgm.github.io/papers/54.pdf) is accepted as a contributed talk (3 out of 69) at [**ICLR Workshop** on Representation Learning on Graphs and Manifolds, 2019](https://rlgm.github.io/papers/)
 - [1 paper](https://arxiv.org/abs/1907.09000) accepted at **BMVC 2019**
