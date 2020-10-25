@@ -59,7 +59,7 @@ Boris Knyazev, Harm de Vries, Cătălina Cangea, Graham W. Taylor, Aaron Courvil
 <img src="https://github.com/bknyaz/sgg/blob/master/figs/2320504_ours_zs_graph_ours.png?raw=true" height="73" style="float:left; margin:5px 25px 5px 30px">
 
 - **Graph Density-Aware Losses for Novel Compositions in Scene Graph Generation**<br/>
-Boris Knyazev, Harm de Vries, Cătălina Cangea, Graham W. Taylor, Aaron Courville, Eugene Belilovsky<br/> British Machine Vision Conference (**BMVC**), 2020 [html](https://arxiv.org/abs/2005.08230), [pdf](https://arxiv.org/pdf/2005.08230.pdf), [code](https://github.com/bknyaz/sgg)
+Boris Knyazev, Harm de Vries, Cătălina Cangea, Graham W. Taylor, Aaron Courville, Eugene Belilovsky<br/> British Machine Vision Conference (**BMVC**), 2020 [html](https://arxiv.org/abs/2005.08230), [pdf](https://arxiv.org/pdf/2005.08230.pdf), [bmvc](https://www.bmvc2020-conference.com/conference/papers/paper_0378.html), [code](https://github.com/bknyaz/sgg)
 
 
 <img src="assets/ldg.png" height="73" style="float:left; margin:5px 25px 5px 5px">
@@ -71,12 +71,12 @@ Boris Knyazev\*, Carolyn Augusta\*, Graham Taylor (\*equal contribution) <br/>*i
 <img src="https://raw.githubusercontent.com/bknyaz/graph_attention_pool/master/data/mnist_animation.gif" height="75" style="float:left; margin:5px 5px 5px 20px">
 <img src="https://raw.githubusercontent.com/bknyaz/graph_attention_pool/master/data/triangles_animation.gif" height="75" style="float:left; margin:5px 30px 5px 5px">
 
-- **Understanding Attention and Generalization in Graph Neural Networks**<br/> Boris Knyazev, Graham Taylor, Mohamed Amer<br/> Advances in Neural Information Processing Systems (**NeurIPS**), 2019 <br/>[html](https://papers.nips.cc/paper/8673-understanding-attention-and-generalization-in-graph-neural-networks), [pdf](https://papers.nips.cc/paper/8673-understanding-attention-and-generalization-in-graph-neural-networks.pdf), [ICLR workshop version](https://rlgm.github.io/papers/54.pdf), [code](https://github.com/bknyaz/graph_attention_pool), [poster](https://drive.google.com/open?id=1COefg8JADh7mgI1uh0vB6euadpOmjH27), [slides](https://drive.google.com/open?id=1HcmhSEnf8ll6-BxXK1PiGzcXDa6BbKnC)
+- **Understanding Attention and Generalization in Graph Neural Networks**<br/> Boris Knyazev, Graham Taylor, Mohamed Amer<br/> Advances in Neural Information Processing Systems (**NeurIPS**), 2019 <br/>[html](https://arxiv.org/abs/1905.02850), [pdf](https://arxiv.org/pdf/1905.02850.pdf), [neurips](https://papers.nips.cc/paper/8673-understanding-attention-and-generalization-in-graph-neural-networks), [ICLR workshop version](https://rlgm.github.io/papers/54.pdf), [code](https://github.com/bknyaz/graph_attention_pool), [poster](https://drive.google.com/open?id=1COefg8JADh7mgI1uh0vB6euadpOmjH27), [slides](https://drive.google.com/open?id=1HcmhSEnf8ll6-BxXK1PiGzcXDa6BbKnC)
 
 
 <img src="https://miro.medium.com/max/995/0*DQEo8wicTlkyZeC1" height="70" style="float:left; margin:5px 25px 5px 5px">
 
-- **Image Classification with Hierarchical Multigraph Networks**<br/> Boris Knyazev, Xiao Lin, Mohamed Amer, Graham Taylor<br/> British Machine Vision Conference (**BMVC**), 2019 <br/>[html](https://arxiv.org/abs/1907.09000), [pdf](https://arxiv.org/pdf/1907.09000.pdf), [code](https://github.com/bknyaz/bmvc_2019), [blog post](https://towardsdatascience.com/can-we-do-better-than-convolutional-neural-networks-46ed90fed807)
+- **Image Classification with Hierarchical Multigraph Networks**<br/> Boris Knyazev, Xiao Lin, Mohamed Amer, Graham Taylor<br/> British Machine Vision Conference (**BMVC**), 2019 <br/>[html](https://arxiv.org/abs/1907.09000), [pdf](https://arxiv.org/pdf/1907.09000.pdf), [bmvc pdf](https://bmvc2019.org/wp-content/uploads/papers/1186-paper.pdf), [code](https://github.com/bknyaz/bmvc_2019), [blog post](https://towardsdatascience.com/can-we-do-better-than-convolutional-neural-networks-46ed90fed807)
 
 
 <img src="assets/neuripsW2018.png" height="70" style="float:left; margin:5px 25px 5px 5px">
