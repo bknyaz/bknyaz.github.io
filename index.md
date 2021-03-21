@@ -66,7 +66,7 @@ Boris Knyazev, Harm de Vries, Cătălina Cangea, Graham W. Taylor, Aaron Courvil
 <img src="assets/ldg.png" height="73" style="float:left; margin:5px 25px 5px 5px">
 
 - **Learning Temporal Attention in Dynamic Graphs with Bilinear Interactions**<br/>
-Boris Knyazev\*, Carolyn Augusta\*, Graham Taylor (\*equal contribution) <br/>*in submission*<br/> [html](https://arxiv.org/abs/1909.10367), [pdf](https://arxiv.org/pdf/1909.10367.pdf), [code](https://github.com/uoguelph-mlrg/LDG)
+Boris Knyazev\*, Carolyn Augusta\*, Graham Taylor (\*equal contribution) <br/>**PLOS ONE**, 2021 <br/> [html](https://arxiv.org/abs/1909.10367), [pdf](https://arxiv.org/pdf/1909.10367.pdf), [plos one journal link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247936), [code](https://github.com/uoguelph-mlrg/LDG)
 
 
 <img src="https://raw.githubusercontent.com/bknyaz/graph_attention_pool/master/data/mnist_animation.gif" height="75" style="float:left; margin:5px 5px 5px 20px">
