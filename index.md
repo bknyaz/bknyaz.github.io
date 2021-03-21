@@ -32,6 +32,7 @@ bknyazev [at] uoguelph [dot] ca
 
 ## News
 
+- 1 [journal paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247936) is accepted
 - 1 paper accepted at [**NeurIPS 2020 Workshop** on Beyond BackPropagation: Novel Ideas for Training Neural Architectures](https://beyondbackprop.github.io/)
 - Excited to get the Ontario Graduate Scholarship (OGS) for 2020-2021
 - [1 paper](https://arxiv.org/abs/2005.08230) accepted at **BMVC 2020**
@@ -47,6 +48,11 @@ bknyazev [at] uoguelph [dot] ca
 - Understanding Attention and Generalization in Graph Neural Networks, [Mila](https://mila.quebec/), Nov 2019 ([slides](https://drive.google.com/open?id=1HcmhSEnf8ll6-BxXK1PiGzcXDa6BbKnC))
 - Video Recognition, [Universität zu Lübeck](https://www.inb.uni-luebeck.de/home.html), Jan 2016 ([slides](https://drive.google.com/file/d/1zQBsY2O9a9w7to9toiu1xNbnBxqnsyqi/view?usp=sharing))
 - Resource Efficient Features, [Universität zu Lübeck](https://www.inb.uni-luebeck.de/home.html), Oct 2015
+
+## Reviewing
+
+- 2021: [ICCV](http://iccv2021.thecvf.com/home), [MLSys Workshop on Graph Neural Networks and Systems](https://gnnsys.github.io) 
+- 2020: BMVC,  ICML Workshop on Graph Representation Learning and Beyond
 
 ## Publications
 See the full list at [Google Scholar](https://scholar.google.ca/citations?user=Dp9VFB0AAAAJ&hl).
