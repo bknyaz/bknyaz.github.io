@@ -60,7 +60,7 @@ Boris Knyazev, Harm de Vries, Cătălina Cangea, Graham W. Taylor, Aaron Courvil
 <img src="https://github.com/bknyaz/sgg/blob/master/figs/2320504_ours_zs_graph_ours.png?raw=true" height="73" style="float:left; margin:5px 25px 5px 30px">
 
 - **Graph Density-Aware Losses for Novel Compositions in Scene Graph Generation**<br/>
-Boris Knyazev, Harm de Vries, Cătălina Cangea, Graham W. Taylor, Aaron Courville, Eugene Belilovsky<br/> British Machine Vision Conference (**BMVC**), 2020 [html](https://arxiv.org/abs/2005.08230), [pdf](https://arxiv.org/pdf/2005.08230.pdf), [bmvc](https://www.bmvc2020-conference.com/conference/papers/paper_0378.html), [code](https://github.com/bknyaz/sgg)
+Boris Knyazev, Harm de Vries, Cătălina Cangea, Graham W. Taylor, Aaron Courville, Eugene Belilovsky<br/> British Machine Vision Conference (**BMVC**), 2020 <br/>[html](https://arxiv.org/abs/2005.08230), [pdf](https://arxiv.org/pdf/2005.08230.pdf), [bmvc](https://www.bmvc2020-conference.com/conference/papers/paper_0378.html), [code](https://github.com/bknyaz/sgg)
 
 
 <img src="assets/ldg.png" height="73" style="float:left; margin:5px 25px 5px 5px">
