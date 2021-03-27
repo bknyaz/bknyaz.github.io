@@ -51,7 +51,6 @@ bknyazev [at] uoguelph [dot] ca
 
 ## Reviewing
 
-- 2021: [ICCV](http://iccv2021.thecvf.com/home), [MLSys Workshop on Graph Neural Networks and Systems](https://gnnsys.github.io) 
 - 2020: [BMVC](https://www.bmvc2020-conference.com/),  [ICML Workshop on Graph Representation Learning and Beyond](https://grlplus.github.io/)
 
 ## Publications
