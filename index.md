@@ -32,6 +32,7 @@ bknyazev [at] uoguelph [dot] ca
 
 ## News
 
+- [New preprint](https://arxiv.org/abs/2007.05756) is available
 - 1 [journal paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247936) is accepted
 - 1 paper accepted at [**NeurIPS 2020 Workshop** on Beyond BackPropagation: Novel Ideas for Training Neural Architectures](https://beyondbackprop.github.io/)
 - Excited to get the Ontario Graduate Scholarship (OGS) for 2020-2021
@@ -121,3 +122,4 @@ Boris Knyazev\*, Carolyn Augusta\*, Graham Taylor (\*equal contribution) <br/>**
 - Sports (basketball, tennis, snowboarding, mountain hiking)
 - Travelling (pre Covid)
 
+Last updated: April 16, 2021
