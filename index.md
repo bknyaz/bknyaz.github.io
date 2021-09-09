@@ -60,7 +60,7 @@ bknyazev [at] uoguelph [dot] ca
 ## Publications
 See the full list at [Google Scholar](https://scholar.google.ca/citations?user=Dp9VFB0AAAAJ&hl).
 
-<img src="assets/seq2seq.png" height="69" style="float:left; margin:5px 25px 0px 0px">
+<img src="assets/seq2seq.png" height="75" style="float:left; margin:5px 25px 0px 0px">
 
 - **Context-aware Scene Graph Generation with Seq2Seq Transformers**<br/>
 Yichao Lu, Himanshu Rai, Jason Chang, Boris Knyazev, Shashank Shekhar, Graham W. Taylor, Maksims Volkovs<br/> 
@@ -71,8 +71,8 @@ International Conference on Computer Vision (**ICCV**), 2021 <br/>
 
 - **Generative Compositional Augmentations for Scene Graph Prediction**<br/>
 Boris Knyazev, Harm de Vries, Cătălina Cangea, Graham W. Taylor, Aaron Courville, Eugene Belilovsky<br/> 
-International Conference on Computer Vision (**ICCV**), 2021 <br/>
-<br/> [html](https://arxiv.org/abs/2007.05756), [pdf](https://arxiv.org/pdf/2007.05756.pdf), [ICML Workshop version](https://github.com/oolworkshop/oolworkshop.github.io/blob/master/pdf/OOL_21.pdf), [video](https://oolworkshop.github.io/program/ool_21.html), [code (to appear)](https://github.com/bknyaz/sgg)
+International Conference on Computer Vision (**ICCV**), 2021 <br/> 
+[html](https://arxiv.org/abs/2007.05756), [pdf](https://arxiv.org/pdf/2007.05756.pdf), [ICML Workshop version](https://github.com/oolworkshop/oolworkshop.github.io/blob/master/pdf/OOL_21.pdf), [video](https://oolworkshop.github.io/program/ool_21.html), [code (to appear)](https://github.com/bknyaz/sgg)
 
 
 <img src="https://github.com/bknyaz/sgg/blob/master/figs/2320504_ours_zs_graph_ours.png?raw=true" height="73" style="float:left; margin:5px 25px 5px 30px">
