@@ -60,10 +60,19 @@ bknyazev [at] uoguelph [dot] ca
 ## Publications
 See the full list at [Google Scholar](https://scholar.google.ca/citations?user=Dp9VFB0AAAAJ&hl).
 
-<img src="assets/gan_bert.png" height="69" style="float:left; margin:5px 25px 0px 0px">
+<img src="assets/seq2seq.png" height="69" style="float:left; margin:5px 25px 0px 0px">
 
-- **Generative Graph Perturbations for Scene Graph Prediction**<br/>
-Boris Knyazev, Harm de Vries, Cătălina Cangea, Graham W. Taylor, Aaron Courville, Eugene Belilovsky<br/> **ICML Workshop** on Object-Oriented Learning (OOL): Perception, Representation, and Reasoning, 2020<br/> [html](https://arxiv.org/abs/2007.05756), [pdf](https://arxiv.org/pdf/2007.05756.pdf), [video](https://oolworkshop.github.io/program/ool_21.html)
+- **Context-aware Scene Graph Generation with Seq2Seq Transformers**<br/>
+Yichao Lu, Himanshu Rai, Jason Chang, Boris Knyazev, Shashank Shekhar, Graham W. Taylor, Maksims Volkovs<br/> 
+International Conference on Computer Vision (**ICCV**), 2021 <br/>
+[pdf](http://www.cs.utoronto.ca/~mvolkovs/ICCV2021_Transformer_SGG.pdf), [code](https://github.com/layer6ai-labs/SGG-Seq2Seq)
+
+<img src="assets/gan.png" height="69" style="float:left; margin:5px 25px 0px 0px">
+
+- **Generative Compositional Augmentations for Scene Graph Prediction**<br/>
+Boris Knyazev, Harm de Vries, Cătălina Cangea, Graham W. Taylor, Aaron Courville, Eugene Belilovsky<br/> 
+International Conference on Computer Vision (**ICCV**), 2021 <br/>
+<br/> [html](https://arxiv.org/abs/2007.05756), [pdf](https://arxiv.org/pdf/2007.05756.pdf), [ICML Workshop version](https://github.com/oolworkshop/oolworkshop.github.io/blob/master/pdf/OOL_21.pdf), [video](https://oolworkshop.github.io/program/ool_21.html), [code (to appear)](https://github.com/bknyaz/sgg)
 
 
 <img src="https://github.com/bknyaz/sgg/blob/master/figs/2320504_ours_zs_graph_ours.png?raw=true" height="73" style="float:left; margin:5px 25px 5px 30px">
@@ -81,7 +90,7 @@ Boris Knyazev\*, Carolyn Augusta\*, Graham Taylor (\*equal contribution) <br/>**
 <img src="https://raw.githubusercontent.com/bknyaz/graph_attention_pool/master/data/mnist_animation.gif" height="75" style="float:left; margin:5px 5px 5px 20px">
 <img src="https://raw.githubusercontent.com/bknyaz/graph_attention_pool/master/data/triangles_animation.gif" height="75" style="float:left; margin:5px 30px 5px 5px">
 
-- **Understanding Attention and Generalization in Graph Neural Networks**<br/> Boris Knyazev, Graham Taylor, Mohamed Amer<br/> Advances in Neural Information Processing Systems (**NeurIPS**), 2019 <br/>[html](https://arxiv.org/abs/1905.02850), [pdf](https://arxiv.org/pdf/1905.02850.pdf), [neurips](https://papers.nips.cc/paper/8673-understanding-attention-and-generalization-in-graph-neural-networks), [ICLR workshop version](https://rlgm.github.io/papers/54.pdf), [code](https://github.com/bknyaz/graph_attention_pool), [poster](https://drive.google.com/open?id=1COefg8JADh7mgI1uh0vB6euadpOmjH27), [slides](https://drive.google.com/open?id=1HcmhSEnf8ll6-BxXK1PiGzcXDa6BbKnC)
+- **Understanding Attention and Generalization in Graph Neural Networks**<br/> Boris Knyazev, Graham Taylor, Mohamed Amer<br/> Advances in Neural Information Processing Systems (**NeurIPS**), 2019 <br/>[html](https://arxiv.org/abs/1905.02850), [pdf](https://arxiv.org/pdf/1905.02850.pdf), [neurips](https://papers.nips.cc/paper/8673-understanding-attention-and-generalization-in-graph-neural-networks), [ICLR Workshop version](https://rlgm.github.io/papers/54.pdf), [code](https://github.com/bknyaz/graph_attention_pool), [poster](https://drive.google.com/open?id=1COefg8JADh7mgI1uh0vB6euadpOmjH27), [slides](https://drive.google.com/open?id=1HcmhSEnf8ll6-BxXK1PiGzcXDa6BbKnC)
 
 
 <img src="https://miro.medium.com/max/995/0*DQEo8wicTlkyZeC1" height="70" style="float:left; margin:5px 25px 5px 5px">
@@ -125,4 +134,4 @@ Boris Knyazev\*, Carolyn Augusta\*, Graham Taylor (\*equal contribution) <br/>**
 - Sports (basketball, tennis, snowboarding, mountain hiking)
 - Travelling (pre Covid)
 
-Last updated: August 31, 2021
+Last updated: September 8, 2021
