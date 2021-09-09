@@ -60,7 +60,7 @@ bknyazev [at] uoguelph [dot] ca
 ## Publications
 See the full list at [Google Scholar](https://scholar.google.ca/citations?user=Dp9VFB0AAAAJ&hl).
 
-<img src="assets/seq2seq.png" height="80" style="float:left; margin:5px 25px 0px 0px">
+<img src="assets/seq2seq.png" height="80" style="float:left; margin:5px 25px 0px 15px">
 
 - **Context-aware Scene Graph Generation with Seq2Seq Transformers**<br/>
 Yichao Lu, Himanshu Rai, Jason Chang, Boris Knyazev, Shashank Shekhar, Graham W. Taylor, Maksims Volkovs<br/> 
