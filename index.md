@@ -32,6 +32,7 @@ bknyazev [at] uoguelph [dot] ca
 
 ## News
 
+- 2 out of 2 submissions accepted at **NeurIPS 2021**
 - Selected as an "Outstanding Reviewer" for **ICCV 2021** (top 5% student reviewers)
 - 2 out of 2 submissions accepted at **ICCV 2021**
 - [New preprint](https://arxiv.org/abs/2007.05756) is available
@@ -134,4 +135,4 @@ Boris Knyazev\*, Carolyn Augusta\*, Graham Taylor (\*equal contribution) <br/>**
 - Sports (basketball, tennis, snowboarding, mountain hiking)
 - Travelling (pre Covid)
 
-Last updated: September 8, 2021
+Last updated: September 28, 2021
