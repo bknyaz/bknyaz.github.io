@@ -73,13 +73,13 @@ International Conference on Computer Vision (**ICCV**), 2021 <br/>
 - **Generative Compositional Augmentations for Scene Graph Prediction**<br/>
 Boris Knyazev, Harm de Vries, Cătălina Cangea, Graham W. Taylor, Aaron Courville, Eugene Belilovsky<br/> 
 International Conference on Computer Vision (**ICCV**), 2021 <br/> 
-[html](https://arxiv.org/abs/2007.05756), [pdf](https://arxiv.org/pdf/2007.05756.pdf), [ICML Workshop version](https://github.com/oolworkshop/oolworkshop.github.io/blob/master/pdf/OOL_21.pdf), [video](https://oolworkshop.github.io/program/ool_21.html), [code (to appear)](https://github.com/bknyaz/sgg)
+[html](https://arxiv.org/abs/2007.05756), [pdf](https://arxiv.org/pdf/2007.05756.pdf), [ICML Workshop version](https://github.com/oolworkshop/oolworkshop.github.io/blob/master/pdf/OOL_21.pdf), [ICML workshop video](https://oolworkshop.github.io/program/ool_21.html), [ICCV code](https://github.com/bknyaz/sgg)
 
 
 <img src="https://github.com/bknyaz/sgg/blob/master/figs/2320504_ours_zs_graph_ours.png?raw=true" height="73" style="float:left; margin:5px 25px 5px 30px">
 
 - **Graph Density-Aware Losses for Novel Compositions in Scene Graph Generation**<br/>
-Boris Knyazev, Harm de Vries, Cătălina Cangea, Graham W. Taylor, Aaron Courville, Eugene Belilovsky<br/> British Machine Vision Conference (**BMVC**), 2020 <br/>[html](https://arxiv.org/abs/2005.08230), [pdf](https://arxiv.org/pdf/2005.08230.pdf), [bmvc](https://www.bmvc2020-conference.com/conference/papers/paper_0378.html), [code](https://github.com/bknyaz/sgg)
+Boris Knyazev, Harm de Vries, Cătălina Cangea, Graham W. Taylor, Aaron Courville, Eugene Belilovsky<br/> British Machine Vision Conference (**BMVC**), 2020 <br/>[html](https://arxiv.org/abs/2005.08230), [pdf](https://arxiv.org/pdf/2005.08230.pdf), [bmvc](https://www.bmvc2020-conference.com/conference/papers/paper_0378.html), [code](https://github.com/bknyaz/sgg), [Data Fest tutorial](https://www.youtube.com/watch?v=tMLj9TcLgPg)
 
 
 <img src="assets/ldg.png" height="73" style="float:left; margin:5px 25px 5px 5px">
