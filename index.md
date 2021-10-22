@@ -14,7 +14,7 @@ title: Boris Knyazev
 <img src="assets/boris_5.png" height="160" style="float:right; margin:5px 25px 5px 5px">
 
 I'm a PhD student at the Machine Learning Research Group, University of Guelph and Vector Institute (Ontario, Canada). My research interests lie at the intersection of graph neural networks (GNNs) and computer vision. 
-My advisor is [Graham Taylor](https://www.gwtaylor.ca/). In summer 2020, I interned at Facebook AI Research (FAIR) in Montreal working with [‪Adriana Romero](https://sites.google.com/site/adriromsor/) and Michal Drozdzal. Before that, I interned at Mila working with [Eugene Belilovsky](http://eugenium.github.io/) and [Aaron Courville](https://mila.quebec/en/person/aaron-courville/). In 2018, I interned at SRI International with [Mohamed Amer](https://mohamedramer.com/), where I worked on training GNNs on image superpixels (presented at BMVC 2019).
+My advisor is [Graham Taylor](https://www.gwtaylor.ca/). In summer 2020, I interned at Facebook AI Research (FAIR) in Montreal working with [‪Adriana Romero](https://sites.google.com/site/adriromsor/) and Michal Drozdzal on parameter prediction for neural networks. Before that, I interned at Mila working with [Eugene Belilovsky](http://eugenium.github.io/) and [Aaron Courville](https://mila.quebec/en/person/aaron-courville/) on visual compositional generalization. In 2018, I interned at SRI International with [Mohamed Amer](https://mohamedramer.com/), where I worked on training GNNs on image superpixels.
 Before starting my PhD in 2017, I worked on unsupervised learning and pretraining of neural networks, face, emotion and facial attributes recognition, and video recognition.
 
 bknyazev [at] uoguelph [dot] ca
@@ -60,6 +60,20 @@ bknyazev [at] uoguelph [dot] ca
 
 ## Publications
 See the full list at [Google Scholar](https://scholar.google.ca/citations?user=Dp9VFB0AAAAJ&hl).
+
+<img src="assets/ghn.png" height="80" style="float:left; margin:5px 25px 0px 15px">
+
+- **Parameter Prediction for Unseen Deep Architectures**<br/>
+Boris Knyazev, Michal Drozdzal, Graham W. Taylor, Adriana Romero-Soriano<br/>
+Advances in Neural Information Processing Systems (**NeurIPS**), 2021 <br/>
+[video](https://recorder-v3.slideslive.com/?share=48783&s=9eaa2f2d-b9a5-4d7e-a127-98d96f52ff49), [pdf (to appear)](), [code](https://github.com/facebookresearch/ppuda)
+
+<img src="assets/b3.png" height="80" style="float:left; margin:5px 25px 0px 15px">
+
+- **Brick-by-Brick: Combinatorial Construction with Deep Reinforcement Learning**<br/>
+Hyunsoo Chung, Jungtaek Kim, Boris Knyazev, Jinhwi Lee, Graham W. Taylor, Jaesik Park, Minsu Cho <br/>
+Advances in Neural Information Processing Systems (**NeurIPS**), 2021 <br/>
+[video](https://recorder-v3.slideslive.com/#/share?share=50391&s=83fe5538-73e2-4001-874e-cc36c6ded861), [pdf (to appear)](), [code (to appear)]()
 
 <img src="assets/seq2seq.png" height="80" style="float:left; margin:5px 25px 0px 15px">
 
@@ -135,4 +149,4 @@ Boris Knyazev\*, Carolyn Augusta\*, Graham Taylor (\*equal contribution) <br/>**
 - Sports (basketball, tennis, snowboarding, mountain hiking)
 - Travelling (pre Covid)
 
-Last updated: September 28, 2021
+Last updated: October 21, 2021
