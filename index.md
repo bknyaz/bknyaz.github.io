@@ -61,7 +61,7 @@ bknyazev [at] uoguelph [dot] ca
 ## Publications
 See the full list at [Google Scholar](https://scholar.google.ca/citations?user=Dp9VFB0AAAAJ&hl).
 
-<img src="assets/ghn2.png" height="83" style="float:left; margin:5px 25px 0px 30px">
+<img src="assets/ghn2.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
 - **Parameter Prediction for Unseen Deep Architectures**<br/>
 Boris Knyazev, Michal Drozdzal, Graham W. Taylor, Adriana Romero-Soriano<br/>
