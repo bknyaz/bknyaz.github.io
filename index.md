@@ -61,14 +61,14 @@ bknyazev [at] uoguelph [dot] ca
 ## Publications
 See the full list at [Google Scholar](https://scholar.google.ca/citations?user=Dp9VFB0AAAAJ&hl).
 
-<img src="assets/ghn2.png" height="70" style="float:left; margin:5px 25px 0px 15px">
+<img src="assets/ghn2.png" height="80" style="float:left; margin:5px 25px 0px 20px">
 
 - **Parameter Prediction for Unseen Deep Architectures**<br/>
 Boris Knyazev, Michal Drozdzal, Graham W. Taylor, Adriana Romero-Soriano<br/>
 Advances in Neural Information Processing Systems (**NeurIPS**), 2021 <br/>
 [video](https://recorder-v3.slideslive.com/?share=48783&s=9eaa2f2d-b9a5-4d7e-a127-98d96f52ff49), [pdf (to appear)](), [code](https://github.com/facebookresearch/ppuda)
 
-<img src="assets/b3.png" height="60" style="float:left; margin:5px 25px 0px 5px">
+<img src="assets/b3.png" height="60" style="float:left; margin:5px 25px 20px 5px">
 
 - **Brick-by-Brick: Combinatorial Construction with Deep Reinforcement Learning**<br/>
 Hyunsoo Chung, Jungtaek Kim, Boris Knyazev, Jinhwi Lee, Graham W. Taylor, Jaesik Park, Minsu Cho <br/>
