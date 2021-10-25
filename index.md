@@ -66,7 +66,7 @@ See the full list at [Google Scholar](https://scholar.google.ca/citations?user=D
 - **Parameter Prediction for Unseen Deep Architectures**<br/>
 Boris Knyazev, Michal Drozdzal, Graham W. Taylor, Adriana Romero-Soriano<br/>
 Advances in Neural Information Processing Systems (**NeurIPS**), 2021 <br/>
-[video](https://recorder-v3.slideslive.com/?share=48783&s=9eaa2f2d-b9a5-4d7e-a127-98d96f52ff49), [pdf](assets/ppuda_neurips2021.pdf), [code](https://github.com/facebookresearch/ppuda), [Colab notebook](https://colab.research.google.com/drive/1fU0JU6p73QThJiakFPLNoOmkbDEYw2xf?usp=sharing)
+[video](https://recorder-v3.slideslive.com/?share=48783&s=9eaa2f2d-b9a5-4d7e-a127-98d96f52ff49), [pdf](papers/ppuda_neurips2021.pdf), [code](https://github.com/facebookresearch/ppuda), [Colab notebook](https://colab.research.google.com/drive/1fU0JU6p73QThJiakFPLNoOmkbDEYw2xf?usp=sharing)
 
 <img src="assets/b3.png" height="57" style="float:left; margin:5px 25px 20px 5px">
 
