@@ -66,21 +66,21 @@ See the full list at [Google Scholar](https://scholar.google.ca/citations?user=D
 - **Parameter Prediction for Unseen Deep Architectures**<br/>
 Boris Knyazev, Michal Drozdzal, Graham W. Taylor, Adriana Romero-Soriano<br/>
 Advances in Neural Information Processing Systems (**NeurIPS**), 2021 <br/>
-[video](https://recorder-v3.slideslive.com/?share=48783&s=9eaa2f2d-b9a5-4d7e-a127-98d96f52ff49), [pdf](papers/ppuda_neurips2021.pdf), [code](https://github.com/facebookresearch/ppuda), [Colab notebook](https://colab.research.google.com/drive/1fU0JU6p73QThJiakFPLNoOmkbDEYw2xf?usp=sharing)
+[html](https://arxiv.org/abs/2110.13100), [pdf](papers/ppuda_neurips2021.pdf), [video](https://recorder-v3.slideslive.com/?share=48783&s=9eaa2f2d-b9a5-4d7e-a127-98d96f52ff49), [code](https://github.com/facebookresearch/ppuda), [Colab notebook predict](https://colab.research.google.com/drive/1fU0JU6p73QThJiakFPLNoOmkbDEYw2xf?usp=sharing), [Colab notebook fine-tune](https://colab.research.google.com/drive/1IH86johwAmwkyLv7KQgg23IptD6JkEqe?usp=sharing)
 
 <img src="assets/b3.png" height="57" style="float:left; margin:5px 25px 20px 5px">
 
 - **Brick-by-Brick: Combinatorial Construction with Deep Reinforcement Learning**<br/>
 Hyunsoo Chung, Jungtaek Kim, Boris Knyazev, Jinhwi Lee, Graham W. Taylor, Jaesik Park, Minsu Cho <br/>
 Advances in Neural Information Processing Systems (**NeurIPS**), 2021 <br/>
-[video](https://recorder-v3.slideslive.com/#/share?share=50391&s=83fe5538-73e2-4001-874e-cc36c6ded861), [pdf (to appear)](), [code (to appear)]()
+[html](https://arxiv.org/abs/2110.15481), [pdf](https://arxiv.org/pdf/2110.15481.pdf), [video](https://recorder-v3.slideslive.com/#/share?share=50391&s=83fe5538-73e2-4001-874e-cc36c6ded861), [code (to appear)]()
 
 <img src="assets/seq2seq.png" height="80" style="float:left; margin:5px 25px 0px 15px">
 
 - **Context-aware Scene Graph Generation with Seq2Seq Transformers**<br/>
 Yichao Lu, Himanshu Rai, Jason Chang, Boris Knyazev, Shashank Shekhar, Graham W. Taylor, Maksims Volkovs<br/> 
 International Conference on Computer Vision (**ICCV**), 2021 <br/>
-[pdf](http://www.cs.utoronto.ca/~mvolkovs/ICCV2021_Transformer_SGG.pdf), [code](https://github.com/layer6ai-labs/SGG-Seq2Seq)
+[html](https://openaccess.thecvf.com/content/ICCV2021/html/Lu_Context-Aware_Scene_Graph_Generation_With_Seq2Seq_Transformers_ICCV_2021_paper.html), [pdf](http://www.cs.utoronto.ca/~mvolkovs/ICCV2021_Transformer_SGG.pdf), [code](https://github.com/layer6ai-labs/SGG-Seq2Seq)
 
 <img src="assets/gan.png" height="69" style="float:left; margin:5px 25px 0px 0px">
 
@@ -149,4 +149,4 @@ Boris Knyazev\*, Carolyn Augusta\*, Graham Taylor (\*equal contribution) <br/>**
 - Sports (basketball, tennis, snowboarding, mountain hiking)
 - Travelling (pre Covid)
 
-Last updated: October 25, 2021
+Last updated: November 2, 2021
