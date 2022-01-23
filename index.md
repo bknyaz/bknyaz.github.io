@@ -13,8 +13,9 @@ title: Boris Knyazev
 
 <img src="assets/boris_5.png" height="160" style="float:right; margin:5px 25px 5px 5px">
 
-I'm a PhD student at the Machine Learning Research Group, University of Guelph and Vector Institute (Ontario, Canada). My research interests lie at the intersection of graph neural networks (GNNs) and computer vision. 
-My advisor is [Graham Taylor](https://www.gwtaylor.ca/). In summer 2020, I interned at Facebook AI Research (FAIR) in Montreal working with [‪Adriana Romero](https://sites.google.com/site/adriromsor/) and Michal Drozdzal on parameter prediction for neural networks. Before that, I interned at Mila working with [Eugene Belilovsky](http://eugenium.github.io/) and [Aaron Courville](https://mila.quebec/en/person/aaron-courville/) on visual compositional generalization. In 2018, I interned at SRI International with [Mohamed Amer](https://mohamedramer.com/), where I worked on training GNNs on image superpixels.
+I'm now a Research Scientist at [Samsung SAIT AI Lab Montreal](https://www.sait.samsung.co.kr/saithome/about/labs.do). I'm completing my PhD at the Machine Learning Research Group, [University of Guelph](https://uoguelph.ca/) and [Vector Institute](https://vectorinstitute.ai/) (Ontario, Canada). My research interests lie at the intersection of graph neural networks (GNNs) and computer vision. 
+My advisor is [Graham Taylor](https://www.gwtaylor.ca/). In summer 2020, I interned at Facebook AI Research (FAIR) in Montreal working with [‪Adriana Romero](https://sites.google.com/site/adriromsor/) and Michal Drozdzal on [parameter prediction for neural networks](https://github.com/facebookresearch/ppuda). 
+Before that, I interned at Mila working with [Eugene Belilovsky](http://eugenium.github.io/) and [Aaron Courville](https://mila.quebec/en/person/aaron-courville/) on [visual compositional generalization](https://github.com/bknyaz/sgg). In 2018, I interned at SRI International with [Mohamed Amer](https://mohamedramer.com/), where I worked on [training GNNs on image superpixels](https://github.com/bknyaz/bmvc_2019).
 Before starting my PhD in 2017, I worked on unsupervised learning and pretraining of neural networks, face, emotion and facial attributes recognition, and video recognition.
 
 bknyazev [at] uoguelph [dot] ca
@@ -32,6 +33,8 @@ bknyazev [at] uoguelph [dot] ca
 
 ## News
 
+- 1 out of 1 submission accepted at **ICLR 2022** (paper and code to appear online soon)
+- I joined Samsung SAIT AI Lab Montreal as Research Scientist
 - 2 out of 2 submissions accepted at **NeurIPS 2021**
 - Selected as an "Outstanding Reviewer" for **ICCV 2021** (top 5% student reviewers)
 - 2 out of 2 submissions accepted at **ICCV 2021**
@@ -66,14 +69,14 @@ See the full list at [Google Scholar](https://scholar.google.ca/citations?user=D
 - **Parameter Prediction for Unseen Deep Architectures**<br/>
 Boris Knyazev, Michal Drozdzal, Graham W. Taylor, Adriana Romero-Soriano<br/>
 Advances in Neural Information Processing Systems (**NeurIPS**), 2021 <br/>
-[html](https://arxiv.org/abs/2110.13100), [pdf](papers/ppuda_neurips2021.pdf), [video](https://recorder-v3.slideslive.com/?share=48783&s=9eaa2f2d-b9a5-4d7e-a127-98d96f52ff49), [code](https://github.com/facebookresearch/ppuda), [Colab notebook predict](https://colab.research.google.com/drive/1fU0JU6p73QThJiakFPLNoOmkbDEYw2xf?usp=sharing), [Colab notebook fine-tune](https://colab.research.google.com/drive/1IH86johwAmwkyLv7KQgg23IptD6JkEqe?usp=sharing)
+[html](https://arxiv.org/abs/2110.13100), [pdf](papers/ppuda_neurips2021.pdf), [reviews](https://openreview.net/forum?id=vqHak8NLk25), [UofG news](https://news.uoguelph.ca/2022/01/u-of-g-engineers-share-benefits-of-machine-learning-advance/), [Yannic Kilcher's video](https://youtu.be/3HUK2UWzlFA), [neurips video](https://recorder-v3.slideslive.com/?share=48783&s=9eaa2f2d-b9a5-4d7e-a127-98d96f52ff49), [code](https://github.com/facebookresearch/ppuda), [Colab notebook predict](https://colab.research.google.com/drive/1fU0JU6p73QThJiakFPLNoOmkbDEYw2xf?usp=sharing), [Colab notebook fine-tune](https://colab.research.google.com/drive/1IH86johwAmwkyLv7KQgg23IptD6JkEqe?usp=sharing), [twitter](https://twitter.com/BorisAKnyazev/status/1452813952719761416)
 
 <img src="assets/b3.png" height="57" style="float:left; margin:5px 25px 20px 5px">
 
 - **Brick-by-Brick: Combinatorial Construction with Deep Reinforcement Learning**<br/>
 Hyunsoo Chung, Jungtaek Kim, Boris Knyazev, Jinhwi Lee, Graham W. Taylor, Jaesik Park, Minsu Cho <br/>
 Advances in Neural Information Processing Systems (**NeurIPS**), 2021 <br/>
-[html](https://arxiv.org/abs/2110.15481), [pdf](https://arxiv.org/pdf/2110.15481.pdf), [video](https://recorder-v3.slideslive.com/#/share?share=50391&s=83fe5538-73e2-4001-874e-cc36c6ded861), [code (to appear)]()
+[html](https://arxiv.org/abs/2110.15481), [pdf](https://arxiv.org/pdf/2110.15481.pdf), [reviews](https://openreview.net/forum?id=c1p817YZAx6), [video](https://recorder-v3.slideslive.com/#/share?share=50391&s=83fe5538-73e2-4001-874e-cc36c6ded861), [code](https://github.com/POSTECH-CVLab/Brick-by-Brick)
 
 <img src="assets/seq2seq.png" height="80" style="float:left; margin:5px 25px 0px 15px">
 
@@ -149,4 +152,4 @@ Boris Knyazev\*, Carolyn Augusta\*, Graham Taylor (\*equal contribution) <br/>**
 - Sports (basketball, tennis, snowboarding, mountain hiking)
 - Travelling (pre Covid)
 
-Last updated: November 2, 2021
+Last updated: January 23, 2022
