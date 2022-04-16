@@ -18,8 +18,6 @@ My advisor is [Graham Taylor](https://www.gwtaylor.ca/). In summer 2020, I inter
 Before that, I interned at Mila working with [Eugene Belilovsky](http://eugenium.github.io/) and [Aaron Courville](https://mila.quebec/en/person/aaron-courville/) on [visual compositional generalization](https://github.com/bknyaz/sgg). In 2018, I interned at SRI International with [Mohamed Amer](https://mohamedramer.com/), where I worked on [training GNNs on image superpixels](https://github.com/bknyaz/bmvc_2019).
 Before starting my PhD in 2017, I worked on unsupervised learning and pretraining of neural networks, face, emotion and facial attributes recognition, and video recognition.
 
-bknyazev [at] uoguelph [dot] ca
-
 <a href="https://github.com/bknyaz">
 <img src="assets/github.png" height="45" style="float:top; margin:5px"></a>
 <a href="https://scholar.google.ca/citations?user=Dp9VFB0AAAAJ&hl">
@@ -33,6 +31,7 @@ bknyazev [at] uoguelph [dot] ca
 
 ## News
 
+- My PhD thesis has been approved and is [available online](https://atrium.lib.uoguelph.ca/xmlui/handle/10214/26824), [LateX source](https://github.com/uoguelph-mlrg/phdthesis_boris)
 - 1 out of 1 submission accepted at **ICLR 2022** (paper and code to appear online soon)
 - I joined Samsung SAIT AI Lab Montreal as Research Scientist
 - 2 out of 2 submissions accepted at **NeurIPS 2021**
@@ -152,4 +151,4 @@ Boris Knyazev\*, Carolyn Augusta\*, Graham Taylor (\*equal contribution) <br/>**
 - Sports (basketball, tennis, snowboarding, mountain hiking)
 - Travelling (pre Covid)
 
-Last updated: January 23, 2022
+Last updated: April 15, 2022
