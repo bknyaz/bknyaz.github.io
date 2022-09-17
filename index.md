@@ -31,12 +31,16 @@ Before starting my PhD in 2017, I worked on unsupervised learning and pretrainin
 
 ## News
 
+- 1 out of 1 papers accepted at **NeurIPS 2022 Track Datasets and Benchmarks** ([openreview](https://openreview.net/forum?id=MOCZI3h8Ye), more details coming soon!)
+- 1 out of 1 papers accepted at **NeurIPS 2022** (details coming soon!)
+- 2 out of 2 papers accepted at [**ICML 2022 Workshop** on Pre-training: Perspectives, Pitfalls, and Paths Forward](https://pretraining.github.io/) ([paper1](https://arxiv.org/abs/2207.10049), [paper2](https://arxiv.org/abs/2207.10951))
 - My PhD thesis has been approved and is [available online](https://atrium.lib.uoguelph.ca/xmlui/handle/10214/26824), [LateX source](https://github.com/uoguelph-mlrg/phdthesis_boris)
-- 1 out of 1 submission accepted at **ICLR 2022** ([openreview](https://openreview.net/forum?id=EnwCZixjSh), [arXiv](https://arxiv.org/abs/2201.09871), [code](https://github.com/uoguelph-mlrg/GGM-metrics))
+- 2 project proposals are selected for full funding by the Samsung/Mila committee 
+- 1 out of 1 papers accepted at **ICLR 2022** ([openreview](https://openreview.net/forum?id=EnwCZixjSh), [arXiv](https://arxiv.org/abs/2201.09871), [code](https://github.com/uoguelph-mlrg/GGM-metrics))
 - I joined [Samsung - SAIT AI Lab, Montreal](https://www.sait.samsung.co.kr/saithome/about/labs.do) as Research Scientist
-- 2 out of 2 submissions accepted at **NeurIPS 2021**
+- 2 out of 2 papers accepted at **NeurIPS 2021**
 - Selected as an "Outstanding Reviewer" for **ICCV 2021** (top 5% student reviewers)
-- 2 out of 2 submissions accepted at **ICCV 2021**
+- 2 out of 2 papers accepted at **ICCV 2021**
 - [New preprint](https://arxiv.org/abs/2007.05756) is available
 - 1 [journal paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247936) is accepted
 - 1 paper accepted at [**NeurIPS 2020 Workshop** on Beyond BackPropagation: Novel Ideas for Training Neural Architectures](https://beyondbackprop.github.io/)
@@ -57,11 +61,12 @@ Before starting my PhD in 2017, I worked on unsupervised learning and pretrainin
 
 ## Reviewing
 
-- 2022: CVPR, ICML, Nature Machine Intelligence
+- 2022: CVPR, ICML, ICML Workshop, NeurIPS, Nature Machine Intelligence
 - 2021: [ICCV](http://iccv2021.thecvf.com/home)
 - 2020: [BMVC](https://www.bmvc2020-conference.com/),  [ICML Workshop on Graph Representation Learning and Beyond](https://grlplus.github.io/)
 
 ## Publications
+
 See the full list at [Google Scholar](https://scholar.google.ca/citations?user=Dp9VFB0AAAAJ&hl).
 
 <img src="assets/ghn2.png" height="85" style="float:left; margin:5px 25px 0px 30px">
@@ -152,4 +157,4 @@ Boris Knyazev\*, Carolyn Augusta\*, Graham Taylor (\*equal contribution) <br/>**
 - Sports (basketball, tennis, snowboarding, mountain hiking)
 - Travelling (pre Covid)
 
-Last updated: June 1, 2022
+Last updated: Sep 17, 2022
