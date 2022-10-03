@@ -29,7 +29,7 @@ Before starting my PhD in 2017, I worked on unsupervised learning and pretrainin
 <a href="https://medium.com/@BorisAKnyazev">
 <img src="assets/medium.png" height="45" style="float:top; margin:5px"></a>
 
-## ~News~
+## ~~News~~
 ## Good News
 
 - 1 out of 1 papers accepted at **NeurIPS 2022 Track Datasets and Benchmarks** ([openreview](https://openreview.net/forum?id=MOCZI3h8Ye), [arXiv](https://arxiv.org/abs/2209.14764), [dataset](https://github.com/ModelZoos/ModelZooDataset))
