@@ -29,10 +29,11 @@ Before starting my PhD in 2017, I worked on unsupervised learning and pretrainin
 <a href="https://medium.com/@BorisAKnyazev">
 <img src="assets/medium.png" height="45" style="float:top; margin:5px"></a>
 
-## News
+## ~News~
+## Good News
 
-- 1 out of 1 papers accepted at **NeurIPS 2022 Track Datasets and Benchmarks** ([openreview](https://openreview.net/forum?id=MOCZI3h8Ye), more details coming soon!)
-- 1 out of 1 papers accepted at **NeurIPS 2022** (details coming soon!)
+- 1 out of 1 papers accepted at **NeurIPS 2022 Track Datasets and Benchmarks** ([openreview](https://openreview.net/forum?id=MOCZI3h8Ye), [arXiv](https://arxiv.org/abs/2209.14764), [dataset](https://github.com/ModelZoos/ModelZooDataset))
+- 1 out of 1 papers accepted at **NeurIPS 2022** ([arXiv](https://arxiv.org/abs/2209.14733), [NeurIPS](https://nips.cc/Conferences/2022/Schedule?showEvent=53429))
 - 2 out of 2 papers accepted at [**ICML 2022 Workshop** on Pre-training: Perspectives, Pitfalls, and Paths Forward](https://pretraining.github.io/) ([paper1](https://arxiv.org/abs/2207.10049), [paper2](https://arxiv.org/abs/2207.10951))
 - My PhD thesis has been approved and is [available online](https://atrium.lib.uoguelph.ca/xmlui/handle/10214/26824), [LateX source](https://github.com/uoguelph-mlrg/phdthesis_boris)
 - 2 project proposals are selected for full funding by the Samsung/Mila committee 
