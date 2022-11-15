@@ -54,15 +54,10 @@ Before starting my PhD in 2017, I worked on unsupervised learning and pretrainin
 - [1 paper](https://arxiv.org/abs/1907.09000) accepted at **BMVC 2019**
 - Our poster "Graph Networks for Vision" is selected as the top-2 poster at SRI International among all interns, August 2018
 
-## Talks (not updated)
-
-- Understanding Attention and Generalization in Graph Neural Networks, [Mila](https://mila.quebec/), Nov 2019 ([slides](https://drive.google.com/open?id=1HcmhSEnf8ll6-BxXK1PiGzcXDa6BbKnC))
-- Video Recognition, [Universität zu Lübeck](https://www.inb.uni-luebeck.de/home.html), Jan 2016 ([slides](https://drive.google.com/file/d/1zQBsY2O9a9w7to9toiu1xNbnBxqnsyqi/view?usp=sharing))
-- Resource Efficient Features, [Universität zu Lübeck](https://www.inb.uni-luebeck.de/home.html), Oct 2015
 
 ## Reviewing
 
-- 2022: CVPR, ICML, ICML Workshop, NeurIPS, Nature Machine Intelligence
+- 2022: CVPR, ICML, ICML Workshop, NeurIPS, Learning on Graphs Conference (LoG), Nature Machine Intelligence
 - 2021: [ICCV](http://iccv2021.thecvf.com/home)
 - 2020: [BMVC](https://www.bmvc2020-conference.com/),  [ICML Workshop on Graph Representation Learning and Beyond](https://grlplus.github.io/)
 
@@ -158,4 +153,4 @@ Boris Knyazev\*, Carolyn Augusta\*, Graham Taylor (\*equal contribution) <br/>**
 - Sports (basketball, tennis, snowboarding, mountain hiking)
 - Travelling (pre Covid)
 
-Last updated: Sep 17, 2022
+Last updated: Nov 15, 2022
