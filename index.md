@@ -29,9 +29,6 @@ Before starting my PhD in 2017, I worked on unsupervised learning and pretrainin
 <a href="https://medium.com/@BorisAKnyazev">
 <img src="assets/medium.png" height="45" style="float:top; margin:5px"></a>
 
-## Collaboration
-
-If you are interested in collaborating on some of the topics related to my recent papers, please reach out to me. Unfortunately, I cannot provide funding and our lab does not host interns at the moment, but it is possible to apply for an internship at Mila to obtain some funding (see the internship application at https://mila.quebec/en/supervision-requests/).
 
 ## ~~News~~
 ## Good News
@@ -62,6 +59,7 @@ If you are interested in collaborating on some of the topics related to my recen
 
 ## Reviewing
 
+- 2023: ICML
 - 2022: CVPR, ICML, ICML Workshop, NeurIPS, Learning on Graphs Conference (LoG), Nature Machine Intelligence
 - 2021: [ICCV](http://iccv2021.thecvf.com/home)
 - 2020: [BMVC](https://www.bmvc2020-conference.com/),  [ICML Workshop on Graph Representation Learning and Beyond](https://grlplus.github.io/)
