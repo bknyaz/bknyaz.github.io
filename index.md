@@ -13,8 +13,8 @@ title: Boris Knyazev
 
 <img src="assets/boris_5.png" height="160" style="float:right; margin:5px 25px 5px 5px">
 
-I'm now a Research Scientist at [Samsung - SAIT AI Lab, Montreal](https://www.sait.samsung.co.kr/saithome/about/labs.do). I completed my PhD at the Machine Learning Research Group, [University of Guelph](https://uoguelph.ca/) and [Vector Institute](https://vectorinstitute.ai/) (Ontario, Canada) under supervision of [Graham Taylor](https://www.gwtaylor.ca/) in Spring 2022. My research interests lie at the intersection of graph neural networks (GNNs), computer vision and meta-learning.
-In summer 2020, I interned at Facebook AI Research (FAIR) in Montreal working with [‪Adriana Romero](https://sites.google.com/site/adriromsor/) and Michal Drozdzal on [parameter prediction for neural networks](https://github.com/facebookresearch/ppuda). 
+I'm a Research Scientist at [Samsung - SAIT AI Lab, Montreal](https://www.sait.samsung.co.kr/saithome/about/labs.do). I completed my PhD at the Machine Learning Research Group, [University of Guelph](https://uoguelph.ca/) and [Vector Institute](https://vectorinstitute.ai/) (Ontario, Canada) under supervision of [Graham Taylor](https://www.gwtaylor.ca/) in Spring 2022. My research interests lie at the intersection of graph neural networks (GNNs), computer vision and meta-learning.
+In 2020, I interned at Facebook AI Research (FAIR) in Montreal working with [‪Adriana Romero](https://sites.google.com/site/adriromsor/) and Michal Drozdzal on [parameter prediction for neural networks](https://github.com/facebookresearch/ppuda). 
 Before that, I interned at Mila working with [Eugene Belilovsky](http://eugenium.github.io/) and [Aaron Courville](https://mila.quebec/en/person/aaron-courville/) on [visual compositional generalization](https://github.com/bknyaz/sgg). In 2018, I interned at SRI International with [Mohamed Amer](https://mohamedramer.com/), where I worked on [training GNNs on image superpixels](https://github.com/bknyaz/bmvc_2019).
 Before starting my PhD in 2017, I worked on unsupervised learning and pretraining of neural networks, face, emotion and facial attributes recognition, and video recognition.
 
@@ -29,9 +29,14 @@ Before starting my PhD in 2017, I worked on unsupervised learning and pretrainin
 <a href="https://medium.com/@BorisAKnyazev">
 <img src="assets/medium.png" height="45" style="float:top; margin:5px"></a>
 
+## Collaboration
+
+If you are interested in collaborating on some of the topics related to my recent papers, please reach out to me. Unfortunately, I cannot provide funding and our lab does not host interns at the moment, but it is possible to apply for an internship at Mila to obtain some funding (see the internship application at https://mila.quebec/en/supervision-requests/).
+
 ## ~~News~~
 ## Good News
 
+- 1 out of 1 papers accepted at **ICML 2023** [arXiv](https://arxiv.org/abs/2303.04143), [code](https://github.com/SamsungSAILMontreal/ghn3)
 - 1 out of 1 papers accepted at **NeurIPS 2022 Track Datasets and Benchmarks** ([openreview](https://openreview.net/forum?id=MOCZI3h8Ye), [arXiv](https://arxiv.org/abs/2209.14764), [dataset](https://github.com/ModelZoos/ModelZooDataset))
 - 1 out of 1 papers accepted at **NeurIPS 2022** ([arXiv](https://arxiv.org/abs/2209.14733), [NeurIPS](https://nips.cc/Conferences/2022/Schedule?showEvent=53429))
 - 2 out of 2 papers accepted at [**ICML 2022 Workshop** on Pre-training: Perspectives, Pitfalls, and Paths Forward](https://pretraining.github.io/) ([paper1](https://arxiv.org/abs/2207.10049), [paper2](https://arxiv.org/abs/2207.10951))
@@ -151,6 +156,6 @@ Boris Knyazev\*, Carolyn Augusta\*, Graham Taylor (\*equal contribution) <br/>**
 ## Extracurricular interests
 
 - Sports (basketball, tennis, snowboarding, mountain hiking)
-- Travelling (pre Covid)
+- Traveling
 
-Last updated: Nov 15, 2022
+Last updated: Apr 27, 2023
