@@ -13,10 +13,10 @@ title: Boris Knyazev
 
 <img src="assets/boris_5.png" height="160" style="float:right; margin:5px 25px 5px 5px">
 
-I'm a Research Scientist at [Samsung - SAIT AI Lab, Montreal](https://www.sait.samsung.co.kr/saithome/about/labs.do). I completed my PhD at the Machine Learning Research Group, [University of Guelph](https://uoguelph.ca/) and [Vector Institute](https://vectorinstitute.ai/) (Ontario, Canada) under supervision of [Graham Taylor](https://www.gwtaylor.ca/) in Spring 2022. My research interests lie at the intersection of graph neural networks (GNNs), computer vision and meta-learning.
-In 2020, I interned at Facebook AI Research (FAIR) in Montreal working with [‪Adriana Romero](https://sites.google.com/site/adriromsor/) and Michal Drozdzal on [parameter prediction for neural networks](https://github.com/facebookresearch/ppuda). 
-Before that, I interned at Mila working with [Eugene Belilovsky](http://eugenium.github.io/) and [Aaron Courville](https://mila.quebec/en/person/aaron-courville/) on [visual compositional generalization](https://github.com/bknyaz/sgg). In 2018, I interned at SRI International with [Mohamed Amer](https://mohamedramer.com/), where I worked on [training GNNs on image superpixels](https://github.com/bknyaz/bmvc_2019).
-Before starting my PhD in 2017, I worked on unsupervised learning and pretraining of neural networks, face, emotion and facial attributes recognition, and video recognition.
+I'm a Research Scientist at [Samsung - SAIT AI Lab](https://www.sait.samsung.co.kr/saithome/about/labs.do). I completed my PhD at the Machine Learning Research Group, [University of Guelph](https://uoguelph.ca/) and [Vector Institute](https://vectorinstitute.ai/) under supervision of [Graham Taylor](https://www.gwtaylor.ca/) in 2022. My research interests lie at the intersection of graph neural networks (GNNs), computer vision and meta-learning.
+In the past I interned at Facebook AI Research (FAIR) working with [‪Adriana Romero](https://sites.google.com/site/adriromsor/) and Michal Drozdzal on [parameter prediction for neural networks](https://github.com/facebookresearch/ppuda). 
+I also interned at Mila working with [Eugene Belilovsky](http://eugenium.github.io/) and [Aaron Courville](https://mila.quebec/en/person/aaron-courville/) on [visual compositional generalization](https://github.com/bknyaz/sgg). I also interned at SRI International with [Mohamed Amer](https://mohamedramer.com/), where I worked on [training GNNs on image superpixels](https://github.com/bknyaz/bmvc_2019).
+Before starting my PhD, I worked on unsupervised learning and pretraining of neural networks, face, emotion and facial attributes recognition, and video recognition.
 
 <a href="https://github.com/bknyaz">
 <img src="assets/github.png" height="45" style="float:top; margin:5px"></a>
@@ -36,25 +36,12 @@ Before starting my PhD in 2017, I worked on unsupervised learning and pretrainin
 - 1 out of 1 papers accepted at **ICML 2023** [arXiv](https://arxiv.org/abs/2303.04143), [code](https://github.com/SamsungSAILMontreal/ghn3)
 - 1 out of 1 papers accepted at **NeurIPS 2022 Track Datasets and Benchmarks** ([openreview](https://openreview.net/forum?id=MOCZI3h8Ye), [arXiv](https://arxiv.org/abs/2209.14764), [dataset](https://github.com/ModelZoos/ModelZooDataset))
 - 1 out of 1 papers accepted at **NeurIPS 2022** ([arXiv](https://arxiv.org/abs/2209.14733), [NeurIPS](https://nips.cc/Conferences/2022/Schedule?showEvent=53429))
-- 2 out of 2 papers accepted at [**ICML 2022 Workshop** on Pre-training: Perspectives, Pitfalls, and Paths Forward](https://pretraining.github.io/) ([paper1](https://arxiv.org/abs/2207.10049), [paper2](https://arxiv.org/abs/2207.10951))
 - My PhD thesis has been approved and is [available online](https://atrium.lib.uoguelph.ca/xmlui/handle/10214/26824), [LateX source](https://github.com/uoguelph-mlrg/phdthesis_boris)
-- 2 project proposals are selected for full funding by the Samsung/Mila committee 
 - 1 out of 1 papers accepted at **ICLR 2022** ([openreview](https://openreview.net/forum?id=EnwCZixjSh), [arXiv](https://arxiv.org/abs/2201.09871), [code](https://github.com/uoguelph-mlrg/GGM-metrics))
-- I joined [Samsung - SAIT AI Lab, Montreal](https://www.sait.samsung.co.kr/saithome/about/labs.do) as Research Scientist
 - 2 out of 2 papers accepted at **NeurIPS 2021**
 - Selected as an "Outstanding Reviewer" for **ICCV 2021** (top 5% student reviewers)
 - 2 out of 2 papers accepted at **ICCV 2021**
-- [New preprint](https://arxiv.org/abs/2007.05756) is available
-- 1 [journal paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247936) is accepted
-- 1 paper accepted at [**NeurIPS 2020 Workshop** on Beyond BackPropagation: Novel Ideas for Training Neural Architectures](https://beyondbackprop.github.io/)
-- Excited to get the Ontario Graduate Scholarship (OGS) for 2020-2021
-- [1 paper](https://arxiv.org/abs/2005.08230) accepted at **BMVC 2020**
-- [1 paper](https://arxiv.org/abs/2007.05756) accepted at [**ICML 2020 Workshop** on Object-Oriented Learning (OOL): Perception, Representation, and Reasoning](https://oolworkshop.github.io/program/ool_21.html)
-- [1 new preprint on temporal graphs](https://arxiv.org/abs/1909.10367) is available
-- [1 paper](https://arxiv.org/abs/1905.02850) accepted at **NeurIPS 2019**
-- Our work on [Understanding Attention in Graph Neural Networks](https://rlgm.github.io/papers/54.pdf) is accepted as a contributed talk (3 out of 69) at [**ICLR Workshop** on Representation Learning on Graphs and Manifolds, 2019](https://rlgm.github.io/papers/)
-- [1 paper](https://arxiv.org/abs/1907.09000) accepted at **BMVC 2019**
-- Our poster "Graph Networks for Vision" is selected as the top-2 poster at SRI International among all interns, August 2018
+
 
 
 ## Reviewing
