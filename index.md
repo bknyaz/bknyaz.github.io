@@ -11,7 +11,7 @@ title: Boris Knyazev
 
 ## About me
 
-<img src="assets/boris_5.png" height="160" style="float:right; margin:5px 25px 5px 5px">
+<img src="https://avatars.githubusercontent.com/u/3225366?v=4" height="160" style="float:right; margin:5px 25px 5px 5px">
 
 I'm a Research Scientist at [Samsung - SAIT AI Lab](https://www.sait.samsung.co.kr/saithome/about/labs.do). I completed my PhD at the Machine Learning Research Group, [University of Guelph](https://uoguelph.ca/) and [Vector Institute](https://vectorinstitute.ai/) under supervision of [Graham Taylor](https://www.gwtaylor.ca/) in 2022. My research interests lie at the intersection of graph neural networks (GNNs), computer vision and meta-learning.
 In the past I interned at Facebook AI Research (FAIR) working with [‪Adriana Romero](https://sites.google.com/site/adriromsor/) and Michal Drozdzal on [parameter prediction for neural networks](https://github.com/facebookresearch/ppuda). 
