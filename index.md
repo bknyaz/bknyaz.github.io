@@ -32,7 +32,7 @@ Before starting my PhD, I worked on unsupervised learning and pretraining of neu
 
 ## News
 
-- 1 paper accepted as **oral** at **ICLR 2024** [arXiv](https://arxiv.org/abs/2403.12143), [code](https://github.com/mkofinas/neural-graphs), [openreview](https://openreview.net/forum?id=oO6FsMyDBt), [twitter](https://twitter.com/MiltosKofinas/status/1770881928540963177)
+- 1 paper accepted as **oral** at **ICLR 2024** [openreview](https://openreview.net/forum?id=oO6FsMyDBt), [arXiv](https://arxiv.org/abs/2403.12143), [code](https://github.com/mkofinas/neural-graphs), [twitter](https://twitter.com/MiltosKofinas/status/1770881928540963177)
 - 1 paper is accepted at **NeurIPS 2023 workshop** [Learning Optimizers for Local SGD](https://openreview.net/forum?id=HiPe4SjZMs)
 - 2 papers are accepted at **ICML 2023 workshops** [LLMs for Graphs](https://openreview.net/forum?id=LfCzmmnH4L), [Learning to Optimize](https://openreview.net/forum?id=MusMaHCrs2)
 - 1 paper accepted at **ICML 2023** [arXiv](https://arxiv.org/abs/2303.04143), [code](https://github.com/SamsungSAILMontreal/ghn3)
