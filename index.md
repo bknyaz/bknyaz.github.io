@@ -30,26 +30,28 @@ Before starting my PhD, I worked on unsupervised learning and pretraining of neu
 <img src="assets/medium.png" height="45" style="float:top; margin:5px"></a>
 
 
-## ~~News~~
-## Good News
+## News
 
-- 1 out of 1 papers accepted at **ICML 2023** [arXiv](https://arxiv.org/abs/2303.04143), [code](https://github.com/SamsungSAILMontreal/ghn3)
-- 1 out of 1 papers accepted at **NeurIPS 2022 Track Datasets and Benchmarks** ([openreview](https://openreview.net/forum?id=MOCZI3h8Ye), [arXiv](https://arxiv.org/abs/2209.14764), [dataset](https://github.com/ModelZoos/ModelZooDataset))
-- 1 out of 1 papers accepted at **NeurIPS 2022** ([arXiv](https://arxiv.org/abs/2209.14733), [NeurIPS](https://nips.cc/Conferences/2022/Schedule?showEvent=53429))
-- My PhD thesis has been approved and is [available online](https://atrium.lib.uoguelph.ca/xmlui/handle/10214/26824), [LateX source](https://github.com/uoguelph-mlrg/phdthesis_boris)
-- 1 out of 1 papers accepted at **ICLR 2022** ([openreview](https://openreview.net/forum?id=EnwCZixjSh), [arXiv](https://arxiv.org/abs/2201.09871), [code](https://github.com/uoguelph-mlrg/GGM-metrics))
+- 1 paper accepted as **oral** at **ICLR 2024** [arXiv](https://arxiv.org/abs/2403.12143), [code](https://github.com/mkofinas/neural-graphs), [openreview](https://openreview.net/forum?id=oO6FsMyDBt), [twitter](https://twitter.com/MiltosKofinas/status/1770881928540963177)
+- 1 paper is accepted at **NeurIPS 2023 workshop** [Learning Optimizers for Local SGD](https://openreview.net/forum?id=HiPe4SjZMs)
+- 2 papers are accepted at **ICML 2023 workshops** [LLMs for Graphs](https://openreview.net/forum?id=LfCzmmnH4L), [Learning to Optimize](https://openreview.net/forum?id=MusMaHCrs2)
+- 1 paper accepted at **ICML 2023** [arXiv](https://arxiv.org/abs/2303.04143), [code](https://github.com/SamsungSAILMontreal/ghn3)
+- 1 paper accepted at **NeurIPS 2022 Track Datasets and Benchmarks** ([openreview](https://openreview.net/forum?id=MOCZI3h8Ye), [arXiv](https://arxiv.org/abs/2209.14764), [dataset](https://github.com/ModelZoos/ModelZooDataset))
+- 1 paper accepted at **NeurIPS 2022** ([arXiv](https://arxiv.org/abs/2209.14733), [NeurIPS](https://nips.cc/Conferences/2022/Schedule?showEvent=53429))
+- My PhD thesis has been approved and is available [online](https://atrium.lib.uoguelph.ca/xmlui/handle/10214/26824), [LateX source](https://github.com/uoguelph-mlrg/phdthesis_boris)
+- 1 paper accepted at **ICLR 2022** ([openreview](https://openreview.net/forum?id=EnwCZixjSh), [arXiv](https://arxiv.org/abs/2201.09871), [code](https://github.com/uoguelph-mlrg/GGM-metrics))
 - 2 out of 2 papers accepted at **NeurIPS 2021**
 - Selected as an "Outstanding Reviewer" for **ICCV 2021** (top 5% student reviewers)
 - 2 out of 2 papers accepted at **ICCV 2021**
 
 
-
 ## Reviewing
 
-- 2023: ICML
+- 2024: ICML, Neural Networks
+- 2023: ICML, NeurIPs, MLG @ KDD, ICLR
 - 2022: CVPR, ICML, ICML Workshop, NeurIPS, Learning on Graphs Conference (LoG), Nature Machine Intelligence
-- 2021: [ICCV](http://iccv2021.thecvf.com/home)
-- 2020: [BMVC](https://www.bmvc2020-conference.com/),  [ICML Workshop on Graph Representation Learning and Beyond](https://grlplus.github.io/)
+- 2021: ICCV
+- 2020: BMVC,  [ICML Workshop on Graph Representation Learning and Beyond](https://grlplus.github.io/)
 
 ## Publications
 
@@ -141,6 +143,7 @@ Boris Knyazev\*, Carolyn Augusta\*, Graham Taylor (\*equal contribution) <br/>**
 ## Extracurricular interests
 
 - Sports (basketball, tennis, snowboarding, mountain hiking)
+- Chess
 - Traveling
 
-Last updated: Apr 27, 2023
+Last updated: Apr 2, 2024
