@@ -13,7 +13,11 @@ title: Boris Knyazev
 
 <img src="https://avatars.githubusercontent.com/u/3225366?v=4" height="160" style="float:right; margin:5px 25px 5px 5px">
 
-I'm a Research Scientist at [Samsung - SAIT AI Lab](https://www.sait.samsung.co.kr/saithome/about/labs.do). I completed my PhD at the Machine Learning Research Group, [University of Guelph](https://uoguelph.ca/) and [Vector Institute](https://vectorinstitute.ai/) under supervision of [Graham Taylor](https://www.gwtaylor.ca/) in 2022. My research interests lie at the intersection of graph neural networks (GNNs), computer vision and meta-learning.
+I'm a Research Scientist at [Samsung - SAIT AI Lab](https://www.sait.samsung.co.kr/saithome/about/labs.do). 
+I completed my PhD at the Machine Learning Research Group, 
+[University of Guelph](https://uoguelph.ca/) and [Vector Institute](https://vectorinstitute.ai/) under supervision of [Graham Taylor](https://www.gwtaylor.ca/) in 2022. 
+My research interests lie at the intersection of **graph neural networks (GNNs)**, 
+**optimization** and **meta-learning** with applications to computer vision, language modeling and molecule discovery.
 In the past I interned at Facebook AI Research (FAIR) working with [‪Adriana Romero](https://sites.google.com/site/adriromsor/) and Michal Drozdzal on [parameter prediction for neural networks](https://github.com/facebookresearch/ppuda). 
 I also interned at Mila working with [Eugene Belilovsky](http://eugenium.github.io/) and [Aaron Courville](https://mila.quebec/en/person/aaron-courville/) on [visual compositional generalization](https://github.com/bknyaz/sgg). I also interned at SRI International with [Mohamed Amer](https://mohamedramer.com/), where I worked on [training GNNs on image superpixels](https://github.com/bknyaz/bmvc_2019).
 Before starting my PhD, I worked on unsupervised learning and pretraining of neural networks, face, emotion and facial attributes recognition, and video recognition.
@@ -32,31 +36,60 @@ Before starting my PhD, I worked on unsupervised learning and pretraining of neu
 
 ## News
 
-- new preprint (NiNo) is available [pdf](papers/nino_paper.pdf), [arXiv](https://arxiv.org/abs/2409.04434), [code](https://github.com/SamsungSAILMontreal/nino)
-- 1 paper accepted as **oral** at **ICLR 2024** [openreview](https://openreview.net/forum?id=oO6FsMyDBt), [arXiv](https://arxiv.org/abs/2403.12143), [code](https://github.com/mkofinas/neural-graphs), [twitter](https://twitter.com/MiltosKofinas/status/1770881928540963177)
-- 1 paper is accepted at **NeurIPS 2023 workshop** [Learning Optimizers for Local SGD](https://openreview.net/forum?id=HiPe4SjZMs)
-- 2 papers are accepted at **ICML 2023 workshops** [LLMs for Graphs](https://openreview.net/forum?id=LfCzmmnH4L), [Learning to Optimize](https://openreview.net/forum?id=MusMaHCrs2)
-- 1 paper accepted at **ICML 2023** [arXiv](https://arxiv.org/abs/2303.04143), [code](https://github.com/SamsungSAILMontreal/ghn3)
-- 1 paper accepted at **NeurIPS 2022 Track Datasets and Benchmarks** ([openreview](https://openreview.net/forum?id=MOCZI3h8Ye), [arXiv](https://arxiv.org/abs/2209.14764), [dataset](https://github.com/ModelZoos/ModelZooDataset))
-- 1 paper accepted at **NeurIPS 2022** ([arXiv](https://arxiv.org/abs/2209.14733), [NeurIPS](https://nips.cc/Conferences/2022/Schedule?showEvent=53429))
-- My PhD thesis has been approved and is available [online](https://atrium.lib.uoguelph.ca/xmlui/handle/10214/26824), [LateX source](https://github.com/uoguelph-mlrg/phdthesis_boris)
-- 1 paper accepted at **ICLR 2022** ([openreview](https://openreview.net/forum?id=EnwCZixjSh), [arXiv](https://arxiv.org/abs/2201.09871), [code](https://github.com/uoguelph-mlrg/GGM-metrics))
-- 2 out of 2 papers accepted at **NeurIPS 2021**
-- Selected as an "Outstanding Reviewer" for **ICCV 2021** (top 5% student reviewers)
-- 2 out of 2 papers accepted at **ICCV 2021**
+- _Oct 2024_: The paper [µLO](https://arxiv.org/abs/2406.00153), is accepted as **oral** at **OPT for ML 2024 NeurIPS Workshop**, congrats Benjamin and Charles-Étienne!
+- _Sep 2024_: new preprint (NiNo) is available [arXiv](https://arxiv.org/abs/2409.04434), [pdf](papers/nino_paper.pdf), [code](https://github.com/SamsungSAILMontreal/nino)
+- _Feb 2024_: 1 paper accepted as **oral** at **ICLR 2024** [openreview](https://openreview.net/forum?id=oO6FsMyDBt), [arXiv](https://arxiv.org/abs/2403.12143), [code](https://github.com/mkofinas/neural-graphs), [twitter](https://twitter.com/MiltosKofinas/status/1770881928540963177), congrats Miltos!
+- _Oct 2023_: 1 paper is accepted at **NeurIPS 2023 workshop** [Learning Optimizers for Local SGD](https://openreview.net/forum?id=HiPe4SjZMs)
+- _Jun 2023_: 2 papers are accepted at **ICML 2023 workshops** [LLMs for Graphs](https://openreview.net/forum?id=LfCzmmnH4L), [Learning to Optimize](https://openreview.net/forum?id=MusMaHCrs2)
+- _Apr 2023_: 1 paper accepted at **ICML 2023** [arXiv](https://arxiv.org/abs/2303.04143), [code](https://github.com/SamsungSAILMontreal/ghn3)
+- _Sep 2022_: 1 paper accepted at **NeurIPS 2022 Track Datasets and Benchmarks** ([openreview](https://openreview.net/forum?id=MOCZI3h8Ye), [arXiv](https://arxiv.org/abs/2209.14764), [dataset](https://github.com/ModelZoos/ModelZooDataset))
+- _Sep 2022_: 1 paper accepted at **NeurIPS 2022** ([arXiv](https://arxiv.org/abs/2209.14733), [NeurIPS](https://nips.cc/Conferences/2022/Schedule?showEvent=53429))
+- _Mar 2022_: My PhD thesis has been approved and is available [online](https://atrium.lib.uoguelph.ca/xmlui/handle/10214/26824), [LateX source](https://github.com/uoguelph-mlrg/phdthesis_boris)
+- _Jan 2022_: 1 paper accepted at **ICLR 2022** ([openreview](https://openreview.net/forum?id=EnwCZixjSh), [arXiv](https://arxiv.org/abs/2201.09871), [code](https://github.com/uoguelph-mlrg/GGM-metrics))
+- _Sep 2021_: 2 out of 2 papers accepted at **NeurIPS 2021**
+- _Aug 2021_: Selected as an "Outstanding Reviewer" for **ICCV 2021** (top 5% student reviewers)
+- _Jul 2021_: 2 out of 2 papers accepted at **ICCV 2021**
 
 
 ## Reviewing
 
-- 2024: ICML, Neural Networks
+- 2024: ICML, NeurIPS, ICLR, Neural Networks
 - 2023: ICML, NeurIPs, MLG @ KDD, ICLR
 - 2022: CVPR, ICML, ICML Workshop, NeurIPS, Learning on Graphs Conference (LoG), Nature Machine Intelligence
-- 2021: ICCV
+- 2021: ICCV (**Outstanding Reviewer**, top 5% student reviewers)
 - 2020: BMVC,  [ICML Workshop on Graph Representation Learning and Beyond](https://grlplus.github.io/)
 
-## Publications
+## Selected publications
 
 See the full list at [Google Scholar](https://scholar.google.ca/citations?user=Dp9VFB0AAAAJ&hl).
+
+<img src="assets/neural_graph.png" height="60" style="float:left; margin:5px 25px 25px 0px">
+
+- **Graph Neural Networks for Learning Equivariant Representations of Neural Networks**<br/>
+Miltiadis Kofinas, Boris Knyazev, Yan Zhang, Yunlu Chen, Gertjan J Burghouts, Efstratios Gavves, Cees GM Snoek, David W Zhang<br/>
+International Conference on Learning Representations (**ICLR**), 2024 (**oral**) <br/>
+[openreview](https://openreview.net/forum?id=oO6FsMyDBt), [pdf](https://arxiv.org/pdf/2403.12143), [code]()
+
+<img src="assets/ghn3.png" height="62" style="float:left; margin:5px 25px 25px 45px">
+
+- **Can We Scale Transformers to Predict Parameters of Diverse ImageNet Models?**<br/>
+Boris Knyazev, Doha Hwang, Simon Lacoste-Julien<br/>
+International Conference on Machine Learning (**ICML**), 2023 <br/>
+[html](https://arxiv.org/abs/2303.04143), [pdf](https://arxiv.org/pdf/2303.04143), [video](https://icml.cc/virtual/2023/poster/24569), [code](https://github.com/SamsungSAILMontreal/ghn3)
+
+<img src="assets/hyper.png" height="62" style="float:left; margin:5px 25px 25px 5px">
+
+- **Hyper-Representations as Generative Models: Sampling Unseen Neural Network Weights**<br/>
+Konstantin Schürholt, Boris Knyazev, Xavier Giró-i-Nieto, Damian Borth<br/>
+Advances in Neural Information Processing Systems (**NeurIPS**), 2022 <br/>
+[html](https://arxiv.org/abs/2209.14733), [pdf](https://arxiv.org/pdf/2209.14733), [slides](https://nips.cc/Conferences/2022/Schedule?showEvent=53429), [code](https://github.com/HSG-AIML/NeurIPS_2022-Generative_Hyper_Representations)
+
+<img src="assets/gen_gnn_eval.png" height="37" style="float:left; margin:5px 25px 25px 5px">
+
+- **On Evaluation Metrics for Graph Generative Models**<br/>
+Rylee Thompson, Boris Knyazev, Elahe Ghalebi, Jungtaek Kim, Graham W Taylor<br/>
+International Conference on Learning Representations (**ICLR**), 2022 <br/>
+[html](https://arxiv.org/abs/2201.09871), [pdf](https://arxiv.org/pdf/2201.09871), [openreview](https://openreview.net/forum?id=EnwCZixjSh), [code](https://github.com/uoguelph-mlrg/GGM-metrics)
 
 <img src="assets/ghn2.png" height="85" style="float:left; margin:5px 25px 0px 30px">
 
@@ -102,7 +135,10 @@ Boris Knyazev\*, Carolyn Augusta\*, Graham Taylor (\*equal contribution) <br/>**
 <img src="https://raw.githubusercontent.com/bknyaz/graph_attention_pool/master/data/mnist_animation.gif" height="75" style="float:left; margin:5px 5px 5px 20px">
 <img src="https://raw.githubusercontent.com/bknyaz/graph_attention_pool/master/data/triangles_animation.gif" height="75" style="float:left; margin:5px 30px 5px 5px">
 
-- **Understanding Attention and Generalization in Graph Neural Networks**<br/> Boris Knyazev, Graham Taylor, Mohamed Amer<br/> Advances in Neural Information Processing Systems (**NeurIPS**), 2019 <br/>[html](https://arxiv.org/abs/1905.02850), [pdf](https://arxiv.org/pdf/1905.02850.pdf), [neurips](https://papers.nips.cc/paper/8673-understanding-attention-and-generalization-in-graph-neural-networks), [ICLR Workshop version](https://rlgm.github.io/papers/54.pdf), [code](https://github.com/bknyaz/graph_attention_pool), [poster](https://drive.google.com/open?id=1COefg8JADh7mgI1uh0vB6euadpOmjH27), [slides](https://drive.google.com/open?id=1HcmhSEnf8ll6-BxXK1PiGzcXDa6BbKnC)
+- **Understanding Attention and Generalization in Graph Neural Networks**<br/> 
+Boris Knyazev, Graham Taylor, Mohamed Amer<br/> 
+Advances in Neural Information Processing Systems (**NeurIPS**), 2019<br/>
+[html](https://arxiv.org/abs/1905.02850), [pdf](https://arxiv.org/pdf/1905.02850.pdf), [neurips](https://papers.nips.cc/paper/8673-understanding-attention-and-generalization-in-graph-neural-networks), [ICLR Workshop version](https://rlgm.github.io/papers/54.pdf), [code](https://github.com/bknyaz/graph_attention_pool), [poster](https://drive.google.com/open?id=1COefg8JADh7mgI1uh0vB6euadpOmjH27), [slides](https://drive.google.com/open?id=1HcmhSEnf8ll6-BxXK1PiGzcXDa6BbKnC)
 
 
 <img src="https://miro.medium.com/max/995/0*DQEo8wicTlkyZeC1" height="70" style="float:left; margin:5px 25px 5px 5px">
@@ -147,4 +183,4 @@ Boris Knyazev\*, Carolyn Augusta\*, Graham Taylor (\*equal contribution) <br/>**
 - Chess
 - Traveling
 
-Last updated: Sep 13, 2024
+Last updated: Nov, 2024
