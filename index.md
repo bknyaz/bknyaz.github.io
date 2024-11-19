@@ -63,28 +63,28 @@ Before starting my PhD, I worked on unsupervised learning and pretraining of neu
 
 See the full list at [Google Scholar](https://scholar.google.ca/citations?user=Dp9VFB0AAAAJ&hl).
 
-<img src="assets/neural_graph.png" height="60" style="float:left; margin:5px 25px 25px 0px">
+<img src="assets/neural_graph.png" height="60" style="float:left; margin:10px 25px 25px 0px">
 
 - **Graph Neural Networks for Learning Equivariant Representations of Neural Networks**<br/>
 Miltiadis Kofinas, Boris Knyazev, Yan Zhang, Yunlu Chen, Gertjan J Burghouts, Efstratios Gavves, Cees GM Snoek, David W Zhang<br/>
 International Conference on Learning Representations (**ICLR**), 2024 (**oral**) <br/>
 [openreview](https://openreview.net/forum?id=oO6FsMyDBt), [pdf](https://arxiv.org/pdf/2403.12143), [code]()
 
-<img src="assets/ghn3.png" height="62" style="float:left; margin:5px 25px 25px 45px">
+<img src="assets/ghn3.png" height="62" style="float:left; margin:10px 25px 25px 45px">
 
 - **Can We Scale Transformers to Predict Parameters of Diverse ImageNet Models?**<br/>
 Boris Knyazev, Doha Hwang, Simon Lacoste-Julien<br/>
 International Conference on Machine Learning (**ICML**), 2023 <br/>
 [html](https://arxiv.org/abs/2303.04143), [pdf](https://arxiv.org/pdf/2303.04143), [video](https://icml.cc/virtual/2023/poster/24569), [code](https://github.com/SamsungSAILMontreal/ghn3)
 
-<img src="assets/hyper.png" height="62" style="float:left; margin:5px 25px 25px 5px">
+<img src="assets/hyper.png" height="62" style="float:left; margin:10px 25px 25px 5px">
 
 - **Hyper-Representations as Generative Models: Sampling Unseen Neural Network Weights**<br/>
 Konstantin Schürholt, Boris Knyazev, Xavier Giró-i-Nieto, Damian Borth<br/>
 Advances in Neural Information Processing Systems (**NeurIPS**), 2022 <br/>
 [html](https://arxiv.org/abs/2209.14733), [pdf](https://arxiv.org/pdf/2209.14733), [slides](https://nips.cc/Conferences/2022/Schedule?showEvent=53429), [code](https://github.com/HSG-AIML/NeurIPS_2022-Generative_Hyper_Representations)
 
-<img src="assets/gen_gnn_eval.png" height="37" style="float:left; margin:5px 25px 25px 5px">
+<img src="assets/gen_gnn_eval.png" height="37" style="float:left; margin:10px 25px 25px 0px">
 
 - **On Evaluation Metrics for Graph Generative Models**<br/>
 Rylee Thompson, Boris Knyazev, Elahe Ghalebi, Jungtaek Kim, Graham W Taylor<br/>
