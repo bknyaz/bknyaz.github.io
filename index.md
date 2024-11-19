@@ -39,13 +39,19 @@ Before starting my PhD, I worked on unsupervised learning and pretraining of neu
 - _Oct 2024_: The paper [µLO](https://arxiv.org/abs/2406.00153), is accepted as **oral** at **OPT for ML 2024 NeurIPS Workshop**, congrats Benjamin and Charles-Étienne!
 - _Sep 2024_: new preprint (NiNo) is available [arXiv](https://arxiv.org/abs/2409.04434), [pdf](papers/nino_paper.pdf), [code](https://github.com/SamsungSAILMontreal/nino)
 - _Feb 2024_: 1 paper accepted as **oral** at **ICLR 2024** [openreview](https://openreview.net/forum?id=oO6FsMyDBt), [arXiv](https://arxiv.org/abs/2403.12143), [code](https://github.com/mkofinas/neural-graphs), [twitter](https://twitter.com/MiltosKofinas/status/1770881928540963177), congrats Miltos!
-- _Oct 2023_: 1 paper is accepted at **NeurIPS 2023 workshop** [Learning Optimizers for Local SGD](https://openreview.net/forum?id=HiPe4SjZMs)
-- _Jun 2023_: 2 papers are accepted at **ICML 2023 workshops** [LLMs for Graphs](https://openreview.net/forum?id=LfCzmmnH4L), [Learning to Optimize](https://openreview.net/forum?id=MusMaHCrs2)
+
+
+- _Oct 2023_: 1 paper is accepted at **NeurIPS 2023 Workshop on Federated Learning** [Learning Optimizers for Local SGD](https://openreview.net/forum?id=HiPe4SjZMs)
+- _Jun 2023_: 2 papers are accepted at **ICML 2023 Workshops** [LLMs for Graphs](https://openreview.net/forum?id=LfCzmmnH4L), [Learning to Optimize](https://openreview.net/forum?id=MusMaHCrs2)
 - _Apr 2023_: 1 paper accepted at **ICML 2023** [arXiv](https://arxiv.org/abs/2303.04143), [code](https://github.com/SamsungSAILMontreal/ghn3)
+
+
 - _Sep 2022_: 1 paper accepted at **NeurIPS 2022 Track Datasets and Benchmarks** ([openreview](https://openreview.net/forum?id=MOCZI3h8Ye), [arXiv](https://arxiv.org/abs/2209.14764), [dataset](https://github.com/ModelZoos/ModelZooDataset))
 - _Sep 2022_: 1 paper accepted at **NeurIPS 2022** ([arXiv](https://arxiv.org/abs/2209.14733), [NeurIPS](https://nips.cc/Conferences/2022/Schedule?showEvent=53429))
 - _Mar 2022_: My PhD thesis has been approved and is available [online](https://atrium.lib.uoguelph.ca/xmlui/handle/10214/26824), [LateX source](https://github.com/uoguelph-mlrg/phdthesis_boris)
 - _Jan 2022_: 1 paper accepted at **ICLR 2022** ([openreview](https://openreview.net/forum?id=EnwCZixjSh), [arXiv](https://arxiv.org/abs/2201.09871), [code](https://github.com/uoguelph-mlrg/GGM-metrics))
+
+
 - _Sep 2021_: 2 out of 2 papers accepted at **NeurIPS 2021**
 - _Aug 2021_: Selected as an "Outstanding Reviewer" for **ICCV 2021** (top 5% student reviewers)
 - _Jul 2021_: 2 out of 2 papers accepted at **ICCV 2021**
