@@ -37,7 +37,7 @@ Before starting my PhD, I worked on unsupervised learning and pretraining of neu
 ## News
 
 - _Oct 2024_: The paper [µLO](https://arxiv.org/abs/2406.00153), is accepted as **oral** at **OPT for ML 2024 NeurIPS Workshop**, congrats Benjamin and Charles-Étienne!
-- _Sep 2024_: new preprint (NiNo) is available [arXiv](https://arxiv.org/abs/2409.04434), [pdf](papers/nino_paper.pdf), [code](https://github.com/SamsungSAILMontreal/nino)
+- _Sep 2024_: New preprint (NiNo) is available [arXiv](https://arxiv.org/abs/2409.04434), [pdf](papers/nino_paper.pdf), [code](https://github.com/SamsungSAILMontreal/nino)
 - _Feb 2024_: 1 paper accepted as **oral** at **ICLR 2024** [openreview](https://openreview.net/forum?id=oO6FsMyDBt), [arXiv](https://arxiv.org/abs/2403.12143), [code](https://github.com/mkofinas/neural-graphs), [twitter](https://twitter.com/MiltosKofinas/status/1770881928540963177), congrats Miltos!
 
 
