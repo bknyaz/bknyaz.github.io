@@ -37,9 +37,12 @@ Before starting my PhD, I worked on unsupervised learning and pretraining of neu
 ## News
 
 - _Jan 2025_: NiNo paper accepted at **ICLR 2025** [openreview](https://openreview.net/forum?id=cUFIil6hEG), [arXiv](https://arxiv.org/abs/2409.04434), [code](https://github.com/SamsungSAILMontreal/nino)
+
+
 - _Dec 2024_: Invited as a speaker at [ICLR 2025 Workshop on Weight Space Learning](https://weight-space-learning.github.io/)
 - _Oct 2024_: [µLO](https://arxiv.org/abs/2406.00153) accepted as **oral** at **OPT for ML 2024 NeurIPS Workshop**, congrats Benjamin and Charles-Étienne!
 - _Feb 2024_: 1 paper accepted as **oral** at **ICLR 2024** [openreview](https://openreview.net/forum?id=oO6FsMyDBt), [arXiv](https://arxiv.org/abs/2403.12143), [code](https://github.com/mkofinas/neural-graphs), [twitter](https://twitter.com/MiltosKofinas/status/1770881928540963177), congrats Miltos!
+
 
 - _Oct 2023_: 1 paper accepted at **NeurIPS 2023 Workshop on Federated Learning** [Learning Optimizers for Local SGD](https://openreview.net/forum?id=HiPe4SjZMs)
 - _Jun 2023_: 2 papers accepted at **ICML 2023 Workshops** [LLMs for Graphs](https://openreview.net/forum?id=LfCzmmnH4L), [Learning to Optimize](https://openreview.net/forum?id=MusMaHCrs2)
