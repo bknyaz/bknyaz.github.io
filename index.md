@@ -18,7 +18,7 @@ I completed my PhD at the Machine Learning Research Group,
 [University of Guelph](https://uoguelph.ca/) and [Vector Institute](https://vectorinstitute.ai/) under supervision of [Graham Taylor](https://www.gwtaylor.ca/) in 2022. 
 My research interests lie at the intersection of **graph neural networks (GNNs)**, 
 **optimization** and **meta-learning** with applications to computer vision, language modeling and molecule discovery.
-In the past I interned at Facebook AI Research (FAIR) working with [‪Adriana Romero](https://sites.google.com/site/adriromsor/) and Michal Drozdzal on [parameter prediction for neural networks](https://github.com/facebookresearch/ppuda). 
+During my PhD, I interned at Facebook AI Research (FAIR) working with [‪Adriana Romero](https://sites.google.com/site/adriromsor/) and Michal Drozdzal on [parameter prediction for neural networks](https://github.com/facebookresearch/ppuda). 
 I also interned at Mila working with [Eugene Belilovsky](http://eugenium.github.io/) and [Aaron Courville](https://mila.quebec/en/person/aaron-courville/) on [visual compositional generalization](https://github.com/bknyaz/sgg). I also interned at SRI International with [Mohamed Amer](https://mohamedramer.com/), where I worked on [training GNNs on image superpixels](https://github.com/bknyaz/bmvc_2019).
 Before starting my PhD, I worked on unsupervised learning and pretraining of neural networks, face, emotion and facial attributes recognition, and video recognition.
 
@@ -36,6 +36,9 @@ Before starting my PhD, I worked on unsupervised learning and pretraining of neu
 
 ## News
 
+- _May 2025_: [`Learning Versatile Optimizers on a Compute Diet`](https://arxiv.org/abs/2501.12670) accepted to TMLR
+- _Apr 2025_: Gave an inviated talk at the [ICLR 2025 Workshop on Weight Space Learning](https://weight-space-learning.github.io/), see slides [here](talks/iclr2025_workshop_talk_boris.pdf)
+- _Mar 2025_: [`Meta-learning Optimizers for Communication-Efficient Learning`](https://openreview.net/forum?id=uRbf9ANAns) accepted to TMLR
 - _Jan 2025_: NiNo paper accepted at **ICLR 2025** [openreview](https://openreview.net/forum?id=cUFIil6hEG), [arXiv](https://arxiv.org/abs/2409.04434), [code](https://github.com/SamsungSAILMontreal/nino)
 
 
