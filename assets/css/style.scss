@@ -29,16 +29,17 @@ html, body {
 }
 
 /* Minima containers */
-.site-header,
+.site-header {
+  border-bottom-color: rgba(255, 255, 255, 0.1);
+  transition: border-color 0.2s ease, color 0.2s ease;
+}
 .site-footer,
-.page-content,
+.page-content {
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
 .wrapper {
   background-color: var(--bg);
   color: var(--text);
-}
-
-a {
-  color: var(--link);
 }
 
 pre,
@@ -46,7 +47,19 @@ code {
   background-color: var(--code-bg);
 }
 
-
 body {
   font-family: "Inter", system-ui, -apple-system, sans-serif;
 }
+
+a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  filter: brightness(1.15);
+  text-decoration: underline;
+}
+
+
