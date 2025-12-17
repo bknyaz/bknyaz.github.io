@@ -62,4 +62,13 @@ a:focus {
   text-decoration: underline;
 }
 
+html.dark a:hover,
+html.dark a:focus,
+html.dark .page-content a:hover,
+html.dark .page-content a:focus {
+  color: var(--link);
+  text-decoration: underline;
+}
+
+
 
