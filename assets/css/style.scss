@@ -3,3 +3,40 @@
 ---
 
 @import "minima";
+
+
+/* ======================
+   Dark mode variables
+   ====================== */
+
+:root {
+  --bg: #ffffff;
+  --text: #111827;
+  --link: #2563eb;
+  --code-bg: #f3f4f6;
+}
+
+html.dark {
+  --bg: #0f172a;
+  --text: #e5e7eb;
+  --link: #60a5fa;
+  --code-bg: #1e293b;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+}
+
+a {
+  color: var(--link);
+}
+
+pre,
+code {
+  background-color: var(--code-bg);
+}
+
+body {
+  font-family: "Inter", system-ui, -apple-system, sans-serif;
+}
