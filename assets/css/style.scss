@@ -4,7 +4,6 @@
 
 @import "minima";
 
-
 /* ======================
    Dark mode variables
    ====================== */
@@ -23,7 +22,17 @@ html.dark {
   --code-bg: #1e293b;
 }
 
-body {
+/* Apply colors */
+html, body {
+  background-color: var(--bg);
+  color: var(--text);
+}
+
+/* Minima containers */
+.site-header,
+.site-footer,
+.page-content,
+.wrapper {
   background-color: var(--bg);
   color: var(--text);
 }
@@ -36,6 +45,7 @@ pre,
 code {
   background-color: var(--code-bg);
 }
+
 
 body {
   font-family: "Inter", system-ui, -apple-system, sans-serif;

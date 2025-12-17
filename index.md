@@ -13,36 +13,21 @@ title: Boris Knyazev
 
 <img src="https://avatars.githubusercontent.com/u/3225366?v=4" height="160" style="float:right; margin:5px 25px 5px 5px">
 
-I'm a Research Scientist at [Samsung - SAIT AI Lab](https://www.sait.samsung.co.kr/saithome/about/labs.do) 
-and **Adjunct Professor** at the University of Montreal.
-I completed my PhD at the Machine Learning Research Group, 
-[University of Guelph](https://uoguelph.ca/) and [Vector Institute](https://vectorinstitute.ai/) under supervision of [Graham Taylor](https://www.gwtaylor.ca/) in 2022. 
-My research interests include 
-**graph neural networks (GNNs)**, 
-**large (language) models (LLMs)**,
-**optimization** and **meta-learning** with applications to 
-computer vision, 
-language modeling and 
-molecule discovery.
-
+I’m a Research Scientist at Samsung AI Lab (SAIL) Montreal, 
+leading research on graph neural networks and large language models, 
+with applications in language and scientific discovery.
 
 
 <a href="https://github.com/bknyaz">
-<img src="assets/github.png" height="45" style="float:top; margin:5px"></a>
+<img src="assets/github.png" height="25" style="float:top; margin:5px"></a>
 <a href="https://scholar.google.ca/citations?user=Dp9VFB0AAAAJ&hl">
-<img src="assets/google_scholar.png" height="45" style="float:top; margin:5px"></a>
+<img src="assets/google_scholar.png" height="25" style="float:top; margin:5px"></a>
 <a href="https://www.linkedin.com/in/boris-knyazev-39690948/">
-<img src="assets/linkedin.png" height="45" style="float:top; margin:5px"></a>
+<img src="assets/linkedin.png" height="25" style="float:top; margin:5px"></a>
 <a href="https://twitter.com/BorisAKnyazev">
-<img src="assets/twitter.png" height="45" style="float:top; margin:5px"></a>
+<img src="assets/twitter.png" height="25" style="float:top; margin:5px"></a>
 <a href="https://medium.com/@BorisAKnyazev">
-<img src="assets/medium.png" height="45" style="float:top; margin:5px"></a>
-
-## Prospective students
-I do not yet have funding for students, but I am open to supervising graduate students. 
-Topics include: [neural network weight representation](https://weight-space-learning.github.io/), learning to optimize, 
-LLMs and GNNs for scientific discovery, compressing and merging large models.
-Please <a href="mailto:boris.knyazev@umontreal.ca" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> email me </a> if you are interested.
+<img src="assets/medium.png" height="25" style="float:top; margin:5px"></a>
 
 
 ## News
@@ -58,22 +43,6 @@ Please <a href="mailto:boris.knyazev@umontreal.ca" class="author-social" target=
 - _Dec 2024_: Invited as a speaker at [ICLR 2025 Workshop on Weight Space Learning](https://weight-space-learning.github.io/)
 - _Oct 2024_: [µLO](https://arxiv.org/abs/2406.00153) accepted as **oral** at **OPT for ML 2024 NeurIPS Workshop**, congrats Benjamin and Charles-Étienne!
 - _Feb 2024_: [Neural Graphs](https://arxiv.org/abs/2403.12143) accepted as **oral** at **ICLR 2024**, congrats Miltos!
-
-
-- _Oct 2023_: [Learning Optimizers for Local SGD](https://openreview.net/forum?id=HiPe4SjZMs) accepted at **NeurIPS 2023 Workshop on Federated Learning**
-- _Jun 2023_: 2 papers accepted at **ICML 2023 Workshops** ([LLMs for Graphs](https://openreview.net/forum?id=LfCzmmnH4L), [Learning to Optimize](https://openreview.net/forum?id=MusMaHCrs2))
-- _Apr 2023_: [GHN-3](https://arxiv.org/abs/2303.04143) accepted at **ICML 2023**
-
-
-- _Sep 2022_: [Model Zoos](https://arxiv.org/abs/2209.14764) accepted at **NeurIPS 2022 Track Datasets and Benchmarks**
-- _Sep 2022_: [Hyper-Representations](https://arxiv.org/abs/2209.14733) accepted at **NeurIPS 2022**
-- _Mar 2022_: My PhD thesis has been approved and is available [online](https://atrium.lib.uoguelph.ca/xmlui/handle/10214/26824) ([LateX source](https://github.com/uoguelph-mlrg/phdthesis_boris))
-- _Jan 2022_: [On Evaluation Metrics for Graph Generative Models](https://arxiv.org/abs/2201.09871) accepted at **ICLR 2022**
-
-
-- _Sep 2021_: 2 out of 2 papers accepted at **NeurIPS 2021**
-- _Aug 2021_: Selected as an "Outstanding Reviewer" for **ICCV 2021** (top 5% student reviewers)
-- _Jul 2021_: 2 out of 2 papers accepted at **ICCV 2021**
 
 
 ## Reviewing
@@ -185,31 +154,10 @@ British Machine Vision Conference (**BMVC**), 2019<br/>
 [arxiv](https://arxiv.org/abs/1907.09000), [bmvc pdf](https://bmvc2019.org/wp-content/uploads/papers/1186-paper.pdf), [code](https://github.com/bknyaz/bmvc_2019), [blog post](https://towardsdatascience.com/can-we-do-better-than-convolutional-neural-networks-46ed90fed807)
 
 
-<img src="assets/neuripsW2018.png" height="70" width="130" style="float:left; margin:5px 25px 5px 5px">
-
-- **Spectral Multigraph Networks for Discovering and Fusing Relationships in Molecules**<br/>
-Boris Knyazev, Xiao Lin, Mohamed Amer, Graham Taylor<br/>
-**NeurIPS Workshop** on Machine Learning for Molecules and Materials, 2018<br/>
-[arxiv](https://arxiv.org/abs/1811.09595), [code](https://github.com/bknyaz/graph_nn)
-
-
-<img src="assets/emotiw.png" height="70" width="130" style="float:left; margin:5px 25px 5px 5px">
-
-- **Leveraging Large Face Recognition Data for Emotion Classification**<br/>
-Boris Knyazev, Roman Shvetsov, Natalia Efremova, Artem Kuharenko<br/>
-**FG Workshop** on Large-scale Emotion Recognition and Analysis (LERA), 2018<br/>
-[arxiv](https://arxiv.org/abs/1711.04598), [code](https://github.com/bknyaz/emotiw), [Top-2 in EmotiW 2017 challenge](https://sites.google.com/site/emotiwchallenge/)
-
-
-<img src="assets/ijcnn.png" height="70" width="130" style="float:left; margin:5px 25px 5px 5px">
-
-- **Recursive Autoconvolution for Unsupervised Learning of Convolutional Neural Networks**<br/>
-Boris Knyazev, Erhardt Barth, Thomas Martinetz<br/>
-International Joint Conference on Neural Networks (**IJCNN**), 2017<br/>
-[arxiv](https://arxiv.org/abs/1606.00611), [matlab code](https://github.com/bknyaz/autocnn_unsup), [python code](https://github.com/bknyaz/autocnn_unsup_py), [reddit](https://www.reddit.com/r/MachineLearning/comments/bgegk0/recursive_autoconvolution_for_unsupervised/)
-
 
 ## Blog posts
+
+- **[Optimizing LLMs Faster by Learning Connections: Neuron Interaction and Nowcasting Networks](https://medium.com/@BorisAKnyazev/optimizing-llms-faster-by-learning-connections-neuron-interaction-and-nowcasting-networks-d9a722309eab)**
 
 - **[Tutorial on Graph Neural Networks for Computer Vision and Beyond](https://medium.com/@BorisAKnyazev/tutorial-on-graph-neural-networks-for-computer-vision-and-beyond-part-1-3d9fada3b80d)**
 
@@ -222,11 +170,5 @@ International Joint Conference on Neural Networks (**IJCNN**), 2017<br/>
 ## Open source contributions
 
  <a href="https://github.com/rusty1s/pytorch_geometric"><img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo_text.svg?sanitize=true" height="48"></a> Geometric Deep Learning Extension Library for PyTorch
-
-## Extracurricular interests
-
-- Sports (basketball, tennis, snowboarding, mountain hiking)
-- Chess
-- Traveling
 
 Last updated: Sep, 2025
