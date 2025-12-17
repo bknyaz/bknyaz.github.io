@@ -1,19 +1,25 @@
 (function () {
   const root = document.documentElement;
   const toggle = document.getElementById("theme-toggle");
-
   if (!toggle) return;
 
-  // Load saved theme
+  // 1. Check saved preference
   const saved = localStorage.getItem("theme");
-  if (saved === "dark") {
+
+  // 2. Default to dark if no preference saved
+  const isDark = saved ? saved === "dark" : true;
+
+  if (isDark) {
     root.classList.add("dark");
     toggle.textContent = "☀️";
+  } else {
+    toggle.textContent = "🌙";
   }
 
+  // 3. Toggle handler
   toggle.addEventListener("click", () => {
-    const isDark = root.classList.toggle("dark");
-    localStorage.setItem("theme", isDark ? "dark" : "light");
-    toggle.textContent = isDark ? "☀️" : "🌙";
+    const nowDark = root.classList.toggle("dark");
+    localStorage.setItem("theme", nowDark ? "dark" : "light");
+    toggle.textContent = nowDark ? "☀️" : "🌙";
   });
 })();
