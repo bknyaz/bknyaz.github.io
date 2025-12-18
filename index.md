@@ -14,7 +14,7 @@ title: Boris Knyazev
 <img src="https://avatars.githubusercontent.com/u/3225366?v=4" height="160" style="float:right; margin:5px 25px 5px 5px">
 
 I’m a Research Scientist at Samsung AI Lab Montreal, 
-leading research on graph neural networks and large language models, 
+leading research on graph neural networks, large language models and optimization,
 with applications in language reasoning and scientific discovery.
 
 
