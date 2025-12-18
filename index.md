@@ -15,7 +15,7 @@ title: Boris Knyazev
 
 I’m a Research Scientist at Samsung AI Lab Montreal, 
 leading research on graph neural networks and large language models, 
-with applications in language and scientific discovery.
+with applications in language reasoning and scientific discovery.
 
 
 <a href="https://github.com/bknyaz">
@@ -51,7 +51,6 @@ with applications in language and scientific discovery.
 - 2023: ICML, NeurIPs, MLG @ KDD, ICLR
 - 2022: CVPR, ICML, ICML Workshop, NeurIPS, Learning on Graphs Conference (LoG), Nature Machine Intelligence
 - 2021: ICCV (**Outstanding Reviewer**, top 5% student reviewers)
-- 2020: BMVC,  [ICML Workshop on Graph Representation Learning and Beyond](https://grlplus.github.io/)
 
 ## Selected publications
 

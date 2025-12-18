@@ -70,5 +70,16 @@ html.dark .page-content a:focus {
   text-decoration: underline;
 }
 
+/* Site title / name in dark mode */
+html.dark .site-title a {
+  color: #e5e7eb;       /* darker white for nice contrast */
+  transition: color 0.2s ease;
+}
+
+html.dark .site-title a:hover {
+  color: var(--link);   /* keep your current hover effect */
+}
+
+
 
 
