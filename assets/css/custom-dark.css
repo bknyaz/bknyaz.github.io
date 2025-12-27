@@ -10,6 +10,7 @@ html[data-theme='dark'] {
   --global-bg-color: #0f1f28;     /* slightly lighter than very-deep black */
   --global-card-bg: #11262f;      /* card / panel background */
   --global-surface: #0b1620;
+  --global-footer-bg-color: #0a141e;  /* footer background (a bit darker) */
 
   /* Text colors: a bit brighter for readability */
   --global-text-color: #e7f3fb;   /* main text */
@@ -63,8 +64,14 @@ html[data-theme='dark'] code {
 
 /* Make profile image smaller on mobile */
 @media screen and (max-width: 600px) {
+.profile {
+    width: 180px !important;
+    overflow: hidden !important;
+  }
+
   .profile img {
-    width: 180px !important; /* smaller on mobile */
+    width: 180px !important;
     height: auto !important;
+    margin-bottom: -80px !important; /* Hides bottom 30px */
   }
 }

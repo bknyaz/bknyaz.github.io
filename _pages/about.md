@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://github.com/SamsungSAILMontreal'>Samsung AI Lab Montreal</a> 
+subtitle: AI Research Scientist | Adjunct Professor
+description: 
 
 profile:
   align: right
@@ -44,11 +45,11 @@ My dissertation was on *Assessing and Improving Generalization in Graph Reasonin
 
 #### Education & Career
 
-- **2025 - Present**: Adjunct Professor, [University of Montreal (DIRO)](https://diro.umontreal.ca/accueil/)
-- **2022 - Present**: Research Scientist, [Samsung AI Lab Montreal](https://github.com/SamsungSAILMontreal) (partnered with [Mila](https://mila.quebec))
+- **2025 - Present**: Adjunct Professor, [University of Montreal](https://diro.umontreal.ca/accueil/)
+- **2022 - Present**: Research Scientist, [Samsung AI Lab Montreal](https://github.com/SamsungSAILMontreal)
 - **2017 - 2022**: PhD Student, [University of Guelph](https://www.uoguelph.ca/)
-  - **2020**: Research Intern, [Facebook AI Research (FAIR)](https://ai.meta.com/research/)
-  - **2019 - 2020**: Research Intern, [Mila - Quebec AI Institute](https://mila.quebec)
-  - **2018**: Research Intern, [SRI International](https://www.sri.com/)
+  - **2020**: Intern, [Facebook AI Research (FAIR)](https://ai.meta.com/research/)
+  - **2019 - 2020**: Intern, [Mila - Quebec AI Institute](https://mila.quebec)
+  - **2018**: Intern, [SRI International](https://www.sri.com/)
 
 ---

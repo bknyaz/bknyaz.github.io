@@ -66,13 +66,18 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
-    <!-- Social -->
-    {% if page.social %}
-      <div class="social" style="float: right; width: auto; max-width: 500px; margin-left: 2rem; margin-bottom: 2rem;">
-        <div class="contact-icons">{% include social.liquid %}</div>
-        <div class="contact-note">{{ site.contact_note }}</div>
-      </div>
-    {% endif %}
+    <p style="font-size: 0.7rem; margin-top: 2rem;">
+      &copy; Copyright {{ site.time | date: '%Y' }}
+      {{ site.first_name }}
+      {{ site.middle_name }}
+      {{ site.last_name }}. {{ site.footer_text }}
+      {% if site.impressum_path %}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
+      {% endif %}
+      {% if site.last_updated %}
+        Last updated: {{ 'now' | date: '%B %d, %Y' }}.
+      {% endif %}
+    </p>
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
