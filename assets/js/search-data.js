@@ -104,63 +104,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-nino-accepted-at-iclr-2025",
-          title: 'NiNo accepted at ICLR 2025',
-          description: "",
-          section: "News",},{id: "news-gave-an-invited-talk-at-the-iclr-2025-workshop-on-weight-space-learning-see-slides-and-talk",
-          title: 'Gave an invited talk at the ICLR 2025 Workshop on Weight Space Learning,...',
-          description: "",
-          section: "News",},{id: "news-two-papers-on-learning-to-optimize-celo-training-versatile-learned-optimizers-on-a-compute-diet-and-meta-learning-optimizers-for-communication-efficient-learning-accepted-to-tmlr",
-          title: 'Two papers on learning to optimize (Celo: Training Versatile Learned Optimizers on a...',
-          description: "",
-          section: "News",},{id: "news-almost-free-modality-stitching-of-foundation-models-accepted-to-emnlp-2025-main-conference",
-          title: '(Almost) Free Modality Stitching of Foundation Models accepted to EMNLP 2025 (Main Conference)...',
-          description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project.html";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project.html";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project.html";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project.html";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project.html";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project.html";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project.html";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project.html";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project.html";
             },},{
         id: 'social-email',
         title: 'email',
