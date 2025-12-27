@@ -60,3 +60,11 @@ html[data-theme='dark'] code {
   background: rgba(255,255,255,0.02);
   color: var(--global-text-color);
 }
+
+/* Make profile image smaller on mobile */
+@media screen and (max-width: 600px) {
+  .profile img {
+    width: 240px !important; /* smaller on mobile */
+    height: auto !important;
+  }
+}
