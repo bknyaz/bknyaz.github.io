@@ -1,0 +1,31 @@
+"moudgil":
+  - firstname: ["Abhinav", "A."]
+    url: https://abhinavmoudgil.com/
+
+"taylor":
+  - firstname: ["Graham", "G.", "G. W.", "Graham W", "Graham W."]
+    url: https://www.gwtaylor.ca/
+
+"belilovsky":
+  - firstname: ["Eugene", "E."]
+    url: https://eugenium.github.io/
+
+"lacoste-julien":
+  - firstname: ["Simon", "S."]
+    url: https://www.iro.umontreal.ca/~slacoste/
+
+"sch{\"u}rholt":
+  - firstname: ["Konstantin", "K."]
+    url: https://kschuerholt.github.io/
+
+"schuerholt":
+  - firstname: ["Konstantin", "K."]
+    url: https://kschuerholt.github.io/
+
+"schurholt":
+  - firstname: ["Konstantin", "K."]
+    url: https://kschuerholt.github.io/
+
+"borth":
+  - firstname: ["Damian", "D."]
+    url: https://hsg-aiml.github.io/

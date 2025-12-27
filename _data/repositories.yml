@@ -1,0 +1,16 @@
+github_users:
+  - bknyaz
+
+repo_description_lines_max: 2
+
+github_repos:
+  - SamsungSAILMontreal/nino
+  - SamsungSAILMontreal/ghn3
+  - SamsungSAILMontreal/l2o_pytorch
+  - mkofinas/neural-graphs
+  - ModelZoos/ModelZooDataset
+  - HSG-AIML/NeurIPS_2022-Generative_Hyper_Representations
+  - bknyaz/graph_attention_pool
+  - bknyaz/sgg
+  - bknyaz/bmvc_2019
+  - bknyaz/graph_nn

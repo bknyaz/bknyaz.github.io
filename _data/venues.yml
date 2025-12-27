@@ -1,0 +1,13 @@
+"NeurIPS":
+  url: https://neurips.cc/
+  color: "#00369f"
+
+"ICLR":
+  url: https://iclr.cc/
+
+"ICML":
+  url: https://icml.cc/
+  color: "#009f36"
+
+"TMLR":
+  url: https://jmlr.org/tmlr/

@@ -1,0 +1,62 @@
+/* TEST: Make light mode obvious
+html:not(.dark) body,
+html:not([data-theme='dark']) body {
+  background: pink !important;
+}
+*/
+
+html[data-theme='dark'] {
+  /* Lighter dark background and cards */
+  --global-bg-color: #0f1f28;     /* slightly lighter than very-deep black */
+  --global-card-bg: #11262f;      /* card / panel background */
+  --global-surface: #0b1620;
+
+  /* Text colors: a bit brighter for readability */
+  --global-text-color: #e7f3fb;   /* main text */
+  --global-muted-text: #b7c6d3;   /* secondary text */
+
+  /* Dividers and borders: increase contrast slightly */
+  --global-divider-color: rgba(255,255,255,0.09);
+
+  /* Accent and link colors: lighter, more visible */
+  --global-theme-color: #8fd6ff;  /* accent */
+  /* --global-link-color: #aee8ff;*/
+  --global-accent-strong: #4fe1cc;
+
+  /* Optional subtle elevation for cards */
+  --card-shadow: 0 6px 18px rgba(2,6,12,0.45);
+}
+
+/* Apply basics so changes are immediate */
+html[data-theme='dark'] body {
+  background: var(--global-bg-color);
+  color: var(--global-text-color);
+}
+
+/* Cards and sections */
+html[data-theme='dark'] .card,
+html[data-theme='dark'] .site-section,
+html[data-theme='dark'] .page__content {
+  background: var(--global-card-bg);
+  border-color: var(--global-divider-color);
+  box-shadow: var(--card-shadow);
+}
+
+/* Links and accents */
+/* html[data-theme='dark'] a,
+html[data-theme='dark'] .link {
+  color: var(--global-link-color);
+}*/
+
+html[data-theme='dark'] .accent,
+html[data-theme='dark'] .btn-accent {
+  background-color: var(--global-theme-color);
+  color: #031920;
+}
+
+/* Slightly brighter code block background (optional) */
+html[data-theme='dark'] pre,
+html[data-theme='dark'] code {
+  background: rgba(255,255,255,0.02);
+  color: var(--global-text-color);
+}
