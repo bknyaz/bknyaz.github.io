@@ -64,7 +64,7 @@ html[data-theme='dark'] code {
 /* Make profile image smaller on mobile */
 @media screen and (max-width: 600px) {
   .profile img {
-    width: 240px !important; /* smaller on mobile */
+    width: 180px !important; /* smaller on mobile */
     height: auto !important;
   }
 }
