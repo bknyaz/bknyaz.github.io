@@ -72,6 +72,6 @@ html[data-theme='dark'] code {
   .profile img {
     width: 180px !important;
     height: auto !important;
-    margin-bottom: -80px !important; /* Hides bottom 30px */
+    margin-bottom: -90px !important; /* Hides bottom 30px */
   }
 }
