@@ -24,8 +24,8 @@ pagination:
 {% if blog_name_size > 0 or blog_description_size > 0 %}
 
   <div class="header-bar">
-    <h3>{{ site.blog_name }}</h3>
-    <h4>{{ site.blog_description }}</h4>
+    <h4>{{ site.blog_name }}</h4>
+    <h5>{{ site.blog_description }}</h5>
   </div>
   {% endif %}
 
@@ -73,7 +73,7 @@ pagination:
 <div class="float-right">
 <i class="fa-solid fa-thumbtack fa-xs"></i>
 </div>
-<h4 class="card-title text-lowercase">{{ post.title }}</h4>
+<h5 class="card-title text-lowercase">{{ post.title }}</h5>
 <p class="card-text">{{ post.description }}</p>
 
                     {% if post.external_source == blank %}
@@ -127,7 +127,7 @@ pagination:
 <div class="row">
           <div class="col-sm-9">
 {% endif %}
-        <h4>
+        <h5>
         {% if post.redirect == blank %}
           <a class="post-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
         {% elsif post.redirect contains '://' %}
@@ -138,7 +138,7 @@ pagination:
         {% else %}
           <a class="post-title" href="{{ post.redirect | relative_url }}">{{ post.title }}</a>
         {% endif %}
-      </h4>
+      </h5>
       <p>{{ post.description }}</p>
       <p class="post-meta">
         {{ read_time }} min read &nbsp; &middot; &nbsp;

@@ -43,7 +43,7 @@ My dissertation was on *Assessing and Improving Generalization in Graph Reasonin
 
 ---
 
-#### Education & Career
+##### Education & Career
 
 - **2025 - Present**: Adjunct Professor, [UdeM](https://diro.umontreal.ca/accueil/)
 - **2022 - Present**: Research Scientist, [Samsung AI Lab](https://github.com/SamsungSAILMontreal)
