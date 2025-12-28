@@ -45,8 +45,8 @@ My dissertation was on *Assessing and Improving Generalization in Graph Reasonin
 
 #### Education & Career
 
-- **2025 - Present**: Adjunct Professor, [University of Montreal](https://diro.umontreal.ca/accueil/)
-- **2022 - Present**: Research Scientist, [Samsung AI Lab Montreal](https://github.com/SamsungSAILMontreal)
+- **2025 - Present**: Adjunct Professor, [UdeM](https://diro.umontreal.ca/accueil/)
+- **2022 - Present**: Research Scientist, [Samsung AI Lab](https://github.com/SamsungSAILMontreal)
 - **2017 - 2022**: PhD Student, [University of Guelph](https://www.uoguelph.ca/)
   - **2020**: Intern, [Facebook AI Research (FAIR)](https://ai.meta.com/research/)
   - **2019 - 2020**: Intern, [Mila - Quebec AI Institute](https://mila.quebec)
