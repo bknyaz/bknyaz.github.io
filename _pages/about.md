@@ -11,8 +11,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     
-# Add these for publications
-#years: [2025, 2024, 2023, 2022, 2021, 2020, 2019]  # Adjust to your publication years
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
