@@ -1548,7 +1548,8 @@ body {
 
 /* Mobile: remove custom styling */
 @media screen and (max-width: 768px) {
-  .figure-container-desktop {
+  .figure-container-desktop,
+  .figure-container-desktop-small {
     width: 100% !important;
     margin-left: 0 !important;
     padding: 15px 15px;
