@@ -1532,3 +1532,25 @@ h2, h3 {
 body {
   font-size: 0.9rem;
 }
+
+/* Desktop styles */
+.figure-container-desktop {
+  text-align: center;
+  width: 70%;
+  margin-left: 100px;
+}
+
+.figure-container-desktop-small {
+  text-align: center;
+  width: 50%;
+  margin-left: 150px;
+}
+
+/* Mobile: remove custom styling */
+@media screen and (max-width: 768px) {
+  .figure-container-desktop {
+    width: 100% !important;
+    margin-left: 0 !important;
+    padding: 15px 15px;
+  }
+}
