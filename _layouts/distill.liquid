@@ -96,6 +96,9 @@
       <d-appendix>
         <d-footnote-list></d-footnote-list>
         <d-citation-list></d-citation-list>
+        {% if page.citation %}
+          {% include citation.liquid %}
+        {% endif %}
       </d-appendix>
 
       <d-bibliography src="{{ page.bibliography | prepend: '/assets/bibliography/' | relative_url }}"></d-bibliography>
