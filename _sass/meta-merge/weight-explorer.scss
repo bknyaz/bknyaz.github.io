@@ -1,0 +1,168 @@
+#weight-explorer {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  border-radius: 8px;
+}
+
+#weight-explorer .controls {
+  padding: 1.25rem;
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+}
+
+.slider-group {
+  display: flex;
+  gap: 2.5rem;
+  flex-wrap: wrap;
+}
+
+.slider-group > div {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  flex: 0 0 auto;
+  width: 600px;
+}
+
+#weight-explorer label {
+  font-weight: 600;
+  font-size: 0.95rem;
+  letter-spacing: 0.3px;
+}
+
+.slider-container {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.slider {
+  flex: 1;
+  height: 6px;
+  border-radius: 3px;
+  background: linear-gradient(to right, #1976D2 0%, #1976D2 0%, #e0e0e0 0%, #e0e0e0 100%);
+  outline: none;
+  -webkit-appearance: none;
+  cursor: pointer;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: #1976D2;
+  cursor: pointer;
+  box-shadow: 0 2px 6px rgba(25, 118, 210, 0.4);
+  border: 2px solid white;
+}
+
+.slider::-moz-range-thumb {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: #1976D2;
+  cursor: pointer;
+  box-shadow: 0 2px 6px rgba(25, 118, 210, 0.4);
+  border: 2px solid white;
+}
+
+.slider-value {
+  min-width: 60px;
+  padding: 0.4rem 0.8rem;
+  background: #e3f2fd;
+  border-radius: 4px;
+  font-weight: 600;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #333;
+}
+
+.layer-slider-container .slider-value {
+  min-width: 230px;
+}
+
+#weight-plot {
+  margin: 1.5rem 0;
+}
+
+#weight-plot svg {
+  display: block;
+  margin: 0 auto;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+#weight-plot .x-axis text,
+#weight-plot .y-axis text {
+  font-size: 13px;
+  font-weight: 500;
+}
+
+#weight-plot .axis-label {
+  font-weight: 600;
+  font-size: 14px;
+  margin: 0 1rem;
+  fill: currentColor !important;
+  color: inherit !important;
+}
+
+#weight-plot .chart-title {
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  fill: currentColor !important;
+  color: inherit !important;
+}
+
+#weight-plot .tooltip {
+  padding: 4px 8px;
+  border-radius: 4px;
+  pointer-events: none;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+.chart-legend {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  margin-top: 0rem;
+  padding: 1rem;
+  border-radius: 6px;
+  flex-wrap: wrap;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.legend-item svg {
+  display: block;
+  flex-shrink: 0;
+}
+
+
+#weight-explorer .grid-line {
+  shape-rendering: crispEdges;
+}
+
+@media (max-width: 600px) {
+  .slider-group {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .slider-group > div {
+    min-width: auto;
+  }
+
+  .chart-legend {
+    flex-direction: column;
+    gap: 0.8rem;
+  }
+}

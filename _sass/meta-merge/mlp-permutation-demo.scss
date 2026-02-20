@@ -1,0 +1,22 @@
+#mlp-permutation-demo {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #fafafa;
+}
+
+#mlp-permutation-demo button {
+  font-family: inherit;
+  transition: all 0.2s;
+}
+
+#mlp-permutation-demo button:hover:not(:disabled) {
+  transform: scale(1.05);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+#mlp-permutation-demo button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
