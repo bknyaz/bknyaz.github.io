@@ -54,8 +54,8 @@ toc:
 
 
 In AI, the dominant approach to develop neural nets is to first pretrain a large model on a big general dataset and then fine-tune it on specific tasks.
-In case of vision, there are, for example, Vision Transformers (ViTs) pretrained on ImageNet and fine-tuned on various datasets (e.g., classification of satellite images, textures, etc.).
-In case of language, there are, for example, large language models (LLMs) specialized on [Math](https://huggingface.co/bknyaz/Qwen3-0.6B-Math), [Coding](https://huggingface.co/bknyaz/Qwen3-0.6B-Code) or certain languages (e.g., [French](https://huggingface.co/bknyaz/Qwen3-0.6B-Fr)).
+In vision, there are, for example, Vision Transformers (ViTs) pretrained on ImageNet and fine-tuned on downstream tasks (e.g., classification of satellite images, textures, etc.).
+In language modeling, there are, for example, large language models (LLMs) specialized in [Math](https://huggingface.co/bknyaz/Qwen3-0.6B-Math), [Coding](https://huggingface.co/bknyaz/Qwen3-0.6B-Code) or specific languages (e.g., [French](https://huggingface.co/bknyaz/Qwen3-0.6B-Fr)).
 Even though the original pretrained model can also perform well on many tasks, 
 **fine-tuning remains essential to achieve optimal performance**<d-footnote>Training-free adaptation methods such as in-context learning, 
 prompt tuning and others often show competitive results on some tasks and are less costly. 
@@ -63,12 +63,12 @@ However, direct fine-tuning of model parameters is often more effective and appl
 especially when a lot of domain knowledge is necessary requiring a lot of parameter updates (e.g., some medical tasks or rare languages).</d-footnote>.
 As a result, **there are hundreds or thousands of models fine-tuned for various tasks.**
 
-As AI tackles increasingly more tasks, **fine-tuning costs and storage requirement add up**.
+As AI tackles increasingly more tasks, **fine-tuning costs and storage requirements add up**.
 Consider a situation when we first collected a lot of Math data and fine-tuned an LLM on it, 
-then some other lab released a model exceling at Code and another lab released a model exceling at French.
+then some other lab released a model excelling at Code and another lab released a model excelling at French.
 First of all, we now have tripled the number of models to store and maintain.
 Secondly, despite having three models, we cannot effectively solve mixed tasks such as a Math task in French, 
-since there is no **single** model trained on such a mix of datasets. 
+since there may be no **single** model trained on such a mixture. 
 To solve the issues in this example, 
 we can collect a desired mix of data and fine-tune the model on it, 
 but this is costly and time-consuming especially if we need to change the mixing ratio. 
@@ -77,10 +77,10 @@ but doing this effectively is not trivial and still requires some training of th
 
 **Model merging** is a recent **training-free** approach to combine multiple models into one.
 As many papers and our experiments show, 
-model merging solves the issues of naive model fine-tuning 
+model merging can mitigate limitations of naive fine-tuning 
 in a simple yet effective way<d-cite key="wortsman2022model,ilharco2023editing,yadav2023ties"></d-cite>. 
-**Surprisingly, the resulted merged models perform well on individual tasks 
-and on the mixed tasks often approaching fine-tuning, 
+**Surprisingly, the resulting merged models perform well on individual tasks 
+and on the mixed tasks they often approach fine-tuning performance, 
 but without any training or data collection.**
 
 In this post, we introduce a new model merging method called **MetaMerge**.
@@ -88,14 +88,15 @@ In this post, we introduce a new model merging method called **MetaMerge**.
 > MetaMerge uses a pretrained graph neural network (GNN), that takes weights of multiple models as input
 and produces the weights for a single merged model as output without any training or finetuning.
 
-Before introducing MetaMerge and why is it called "Meta", 
+Before introducing MetaMerge and why it is called "Meta", 
 let us briefly describe a common baseline approach and several key concepts.
 
 ## TL;DR
 - We introduce MetaMerge, a new model merging method that uses a pretrained graph neural network (GNN).
 - The "Meta" in MetaMerge comes from the fact that both input and output of the pretrained GNN are model weights.
 - MetaMerge does not require any training/finetuning.
-- MetaMerge shows competitive performance to weight averaging even though the metamodel (GNN) was not trained for merging.
+- MetaMerge can be competitive to weight averaging in some cases even though the metamodel (GNN) was not trained for merging, and more critically, 
+the specific model we use for MetaMerge only observed tiny GPT2 style transformers (with <=1.6M parameters) during training.
 
 ## Simple Merge
 
@@ -130,7 +131,7 @@ A high level idea of **Meta Networks** is to have a learnable model that can tak
 Hence, the term "Meta" is used.
 While most merging methods implement $f$ in the weight space directly, 
 some recent methods implement $f$ in the low-dimensional space produced by singular value decomposition (SVD)<d-cite key="stoica2025model,gargiulo2025task"></d-cite>.
-MetaMerge can be viewed as generalization of these methods.
+MetaMerge can be viewed as a more general weight-space transformation learned by a meta-network.
 
 ### NiNo
 
@@ -254,21 +255,21 @@ The code to merge Qwen models using MetaMerge is provided at [merge_qwen.py](htt
 | Qwen3-0.6B-Math-Fr (meta merge, mlp) | 1        | 47.8  | 25.8   | 30.9     | 34.8 |
 | Qwen3-0.6B-Math-Fr (meta merge)      | 1        | 45.1  | 25.7   | 31.6     | 34.1 |
 
-**Table 3. Results using Qwen3-1.7B on 3 tasks.**
+**Table 4. Results using Qwen3-1.7B on 3 tasks.**
 
 | Model                                | N models | GSM8K | French | GSM8K-Fr | avg  |
 |--------------------------------------|----------|-------|--------|----------|------|
 | Qwen3-1.7B                           | 1        | 20.6  | 26.2   | 20.2     | 22.3 |
 | Qwen3-1.7B-Math                      | 1        | 62.1  | 28.3   | 41.5     | 43.9 |
 | Qwen3-1.7B-Fr                        | 1        | 60.9  | 32.8   | 43.9     | 45.9 |
-| Qwen3-0.6B (fine-tuned per task)     | 2        | 62.1  | 32.8   | 43.9     | 46.3 |
+| Qwen3-1.7B (fine-tuned per task)     | 2        | 62.1  | 32.8   | 43.9     | 46.3 |
 | Qwen3-1.7B-Math-Fr (avg merge)       | 1        | 64.0  | 31.4   | 46.9     | 47.4 |
 | Qwen3-1.7B-Math-Fr (meta merge, mlp) | 1        | 63.0  | 28.3   | 43.8     | 45.0 |
 | Qwen3-1.7B-Math-Fr (meta merge)      | 1        | 62.7  | 28.4   | 43.2     | 44.8 |
 
 For Qwen3-0.6B, the simple averaging method outperforms MetaMerge and as in ViT (on 2 tasks), 
 the MLP version of NiNo outperforms the full NiNo. 
-One possible explanation is that the pretrained NiNo has only seen small GPT2 style transformers (with <=1.6M parameters) during training.
+One possible explanation is that the pretrained NiNo has only seen tiny GPT2 style transformers (with <=1.6M parameters) during training.
 So making predictions for a Qwen architecture with 600M parameters is an extreme out-of-distribution scenario for NiNo.
 As in ViT experiments, the MLP version of NiNo performs slightly better than the full model potentially due to its simplicity inductive bias.
 Qwen3-1.7B is even a more severe out-of-distribution scenario for NiNo, so it is not surprising that MetaMerge does not perform as well as simple averaging.
