@@ -50,8 +50,6 @@ toc:
 ---
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
-<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-
 
 In AI, the dominant approach to develop neural nets is to first pretrain a large model on a big general dataset and then fine-tune it on specific tasks.
 In vision, there are, for example, Vision Transformers (ViTs) pretrained on ImageNet and fine-tuned on downstream tasks (e.g., classification of satellite images, textures, etc.).
