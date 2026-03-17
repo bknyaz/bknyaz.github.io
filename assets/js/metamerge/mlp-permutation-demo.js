@@ -305,7 +305,7 @@ function initMLPDemo()  {
           node1.y = node2.y;
           node2.y = tempY;
 
-          updateEdgesAnimated();
+          updateEdgesAnimated(true);
 
           setTimeout(() => {
             updateMatrices([idx1, idx2]);
@@ -319,15 +319,16 @@ function initMLPDemo()  {
               d3.selectAll("circle").transition().duration(1000).attr("stroke", "#333").attr("stroke-width", 2);
               updateEdges(null);
               isAnimating = false;
-            }, 2000);
-          }, 5000);
+            }, 5000);
+          }, 500);
         });
     }, 800);
   }
 
-  function updateEdgesAnimated() {
+  function updateEdgesAnimated(slow) {
+    const dur = slow ? 5000 : 500; // ms
     edgeGroup.selectAll("line")
-      .transition().duration(5000)
+      .transition().duration(dur)
       .attr("x1", d => nodes[d.source].x).attr("y1", d => nodes[d.source].y)
       .attr("x2", d => nodes[d.target].x).attr("y2", d => nodes[d.target].y);
   }
@@ -343,7 +344,7 @@ function initMLPDemo()  {
         .on("end", function() {
           node.y = node.originalY;
           if (i === hiddenNodes.length - 1) {
-            updateEdgesAnimated();
+            updateEdgesAnimated(false);
             setTimeout(() => {
               updateMatrices(null);
               updateEdges(null);
