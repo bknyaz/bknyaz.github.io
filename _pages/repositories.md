@@ -7,6 +7,9 @@ nav: true
 nav_order: 4
 ---
 
+- <a href="https://github.com/bknyaz">GitHub</a>
+- <a href="https://huggingface.co/bknyaz">HuggingFace</a>
+
 {% if site.data.repositories.github_users %}
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">

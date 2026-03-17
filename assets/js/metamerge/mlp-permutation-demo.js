@@ -287,19 +287,19 @@ function initMLPDemo()  {
     updateMatrices([idx1, idx2]);
 
     d3.select(nodeElements.nodes()[inputNeurons + domPos1]).select("circle")
-      .transition().duration(300).attr("stroke", "#FF9800").attr("stroke-width", 4);
+      .transition().duration(5000).attr("stroke", "#FF9800").attr("stroke-width", 4);
     d3.select(nodeElements.nodes()[inputNeurons + domPos2]).select("circle")
-      .transition().duration(300).attr("stroke", "#FF9800").attr("stroke-width", 4);
+      .transition().duration(5000).attr("stroke", "#FF9800").attr("stroke-width", 4);
 
     setTimeout(() => {
       const tempY = node1.y;
 
       d3.select(nodeElements.nodes()[inputNeurons + domPos1])
-        .transition().duration(1000)
+        .transition().duration(5000)
         .attr("transform", `translate(${node1.x},${node2.y})`);
 
       d3.select(nodeElements.nodes()[inputNeurons + domPos2])
-        .transition().duration(1000)
+        .transition().duration(5000)
         .attr("transform", `translate(${node2.x},${tempY})`)
         .on("end", () => {
           node1.y = node2.y;
@@ -316,18 +316,18 @@ function initMLPDemo()  {
 
             setTimeout(() => {
               updateMatrices(null);
-              d3.selectAll("circle").transition().duration(300).attr("stroke", "#333").attr("stroke-width", 2);
+              d3.selectAll("circle").transition().duration(1000).attr("stroke", "#333").attr("stroke-width", 2);
               updateEdges(null);
               isAnimating = false;
             }, 2000);
-          }, 500);
+          }, 5000);
         });
     }, 800);
   }
 
   function updateEdgesAnimated() {
     edgeGroup.selectAll("line")
-      .transition().duration(500)
+      .transition().duration(5000)
       .attr("x1", d => nodes[d.source].x).attr("y1", d => nodes[d.source].y)
       .attr("x2", d => nodes[d.target].x).attr("y2", d => nodes[d.target].y);
   }
