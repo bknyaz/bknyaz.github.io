@@ -8,9 +8,27 @@ nav_order: 5
 
 <div style="border: 1px solid var(--global-divider-color); padding: 15px; border-radius: 8px; margin: 20px 0;">
   <h5 style="margin-top: 0;">
+    Guest lecture at McGill, Network Science course
+  </h5>
+  <p><em>McGill University</em> • March 2026 </p>
+  <p>I talk about Graphs, Graph Neural Networks and how we can train GNNs on Directed Graphs and Neural Graphs.</p>
+  <img src="/assets/img/mcgill2026_lecture.png" alt="ICLR 2025 Workshop talk" style="max-width: 300px; height: auto; margin: 10px 0;">
+  <br>
+  <a href="https://mycourses2.mcgill.ca/d2l/loginh/" target="_blank" class="btn btn-sm z-depth-0">
+    <i class="fas fa-external-link-alt"></i> View on McGill myCourses
+  </a>
+  <a href="/assets/pdf/boris_knyazev_mcgill_lecture_march18_2026.pdf" target="_blank" class="btn btn-sm z-depth-0">
+    <i class="fas fa-external-link-alt"></i> Slides PDF
+  </a>
+</div>
+
+&nbsp;
+
+<div style="border: 1px solid var(--global-divider-color); padding: 15px; border-radius: 8px; margin: 20px 0;">
+  <h5 style="margin-top: 0;">
     Invited talk at ICLR 2025 Workshop on Weight Space Learning
   </h5>
-  <p><em>ICLR 2025</em> • April 2025 </p>
+  <p><em>ICLR</em> • April 2025 </p>
   <p>Watch my talk about Neural Networks as Graphs, where I discuss Graph HyperNetworks, Neural Graphs and other topics.</p>
   <img src="/assets/img/iclr2025_workshop.png" alt="ICLR 2025 Workshop talk" style="max-width: 300px; height: auto; margin: 10px 0;">
   <br>
