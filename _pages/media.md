@@ -17,7 +17,7 @@ nav_order: 5
   <a href="https://mycourses2.mcgill.ca/d2l/loginh/" target="_blank" class="btn btn-sm z-depth-0">
     <i class="fas fa-external-link-alt"></i> View on McGill myCourses
   </a>
-  <a href="/assets/pdf/boris_knyazev_mcgill_lecture_march18_2026.pdf" target="_blank" class="btn btn-sm z-depth-0">
+  <a href="/assets/pdf/boris_knyazev_mcgill_lecture_march_2026.pdf" target="_blank" class="btn btn-sm z-depth-0">
     <i class="fas fa-external-link-alt"></i> Slides PDF
   </a>
 </div>
