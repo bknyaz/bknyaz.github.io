@@ -4,6 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - SamsungSAILMontreal/ream
   - SamsungSAILMontreal/nino
   - SamsungSAILMontreal/ghn3
   - SamsungSAILMontreal/l2o_pytorch
