@@ -29,11 +29,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a Research Scientist at Samsung AI Lab Montreal, 
-leading research on graph neural networks, large language models and optimization,
-with applications in *reasoning and scientific discovery*.
-I'm also an Adjunct Professor at University of Montreal, 
-focusing on [Weight Space Learning](https://weight-space-learning.github.io/).
+I’m a Research Scientist and Adjunct Professor at the University of Montreal, 
+leading research on graph neural networks, large language models and [Weight Space Learning](https://weight-space-learning.github.io/).
 
 I received my PhD in Engineering from University of Guelph (ON, Canada) in 2022, 
 under the supervision of Graham Taylor. 
@@ -44,7 +41,7 @@ My dissertation was on *Assessing and Improving Generalization in Graph Reasonin
 ##### Education & Career
 
 - **2025 - Present**: Adjunct Professor, [UdeM](https://diro.umontreal.ca/accueil/)
-- **2022 - Present**: Research Scientist, [Samsung AI Lab](https://github.com/SamsungSAILMontreal)
+- **2022 - 2026**: Research Scientist, [Samsung AI Lab](https://github.com/SamsungSAILMontreal)
 - **2017 - 2022**: PhD Student, [University of Guelph](https://www.uoguelph.ca/)
   - **2020**: Intern, [Facebook AI Research (FAIR)](https://ai.meta.com/research/)
   - **2019 - 2020**: Intern, [Mila - Quebec AI Institute](https://mila.quebec)
