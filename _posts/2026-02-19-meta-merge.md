@@ -328,10 +328,11 @@ unless noted otherwise.
 ### Citation
 
 ```bibtex
-@misc{knyazev2026metamerge,
-  title={MetaMerge: Model Merging with Meta Networks},
-  author={Boris Knyazev and Albert M. Orozco Camacho},
+@inproceedings{camacho2026meta,
+  title={Meta-Merging by Checkpoint Nowcasting},
+  author={Camacho, Albert Manuel Orozco and Knyazev, Boris and Belilovsky, Eugene and Wolf, Guy},
+  booktitle={ICML 2026 Workshop on Weight-Space Symmetries: from Foundations to Practical Applications},
   year={2026},
-  url={https://bknyaz.github.io/blog/2026/metamerge/}
+  url={https://openreview.net/forum?id=whl40fLEnM}
 }
 ```
