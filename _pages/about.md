@@ -30,7 +30,7 @@ latest_posts:
 ---
 
 I’m a Research Scientist and Adjunct Professor at the University of Montreal, 
-leading research on graph neural networks, large language models and [Weight Space Learning](https://weight-space-learning.github.io/).
+leading research on [Weight Space Learning](https://weight-space-learning.github.io/), graph neural networks and large language models.
 
 I received my PhD in Engineering from University of Guelph (ON, Canada) in 2022, 
 under the supervision of Graham Taylor. 
