@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI Research Scientist | Adjunct Professor
+subtitle: CTO & Co-Founder | Adjunct Professor
 description: 
 
 profile:
@@ -29,8 +29,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a Research Scientist and Adjunct Professor at the University of Montreal, 
-leading research on [Weight Space Learning](https://weight-space-learning.github.io/), graph neural networks and large language models.
+I’m the CTO & Co-founder at [Weight Space Labs](https://weightspacelabs.ai/). 
+I'm also an Adjunct Professor at the University of Montreal, primarily working on [Weight Space Learning](https://weight-space-learning.github.io/), graph neural networks and large language models.
 
 I received my PhD in Engineering from University of Guelph (ON, Canada) in 2022, 
 under the supervision of Graham Taylor. 
@@ -40,6 +40,7 @@ My dissertation was on *Assessing and Improving Generalization in Graph Reasonin
 
 ##### Education & Career
 
+- **2026 - Present**: CTO & Co-Founder, [Weight Space Labs](https://weightspacelabs.ai/)
 - **2025 - Present**: Adjunct Professor, [UdeM](https://diro.umontreal.ca/accueil/)
 - **2022 - 2026**: Research Scientist, [Samsung AI Lab](https://github.com/SamsungSAILMontreal)
 - **2017 - 2022**: PhD Student, [University of Guelph](https://www.uoguelph.ca/)
